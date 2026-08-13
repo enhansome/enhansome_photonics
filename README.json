@@ -1,0 +1,2336 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "klayout",
+          "description": "layout viewer with python API",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "siepic-tools",
+              "description": "code driven PCells and GUI driven layouts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-10T02:03:28Z",
+                "owner": "SiEPIC",
+                "repo": "SiEPIC-Tools",
+                "stars": 264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KQcircuits",
+              "description": "Quantum circuits pdk.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-18T07:16:10Z",
+                "owner": "iqm-finland",
+                "repo": "KQCircuits",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kfactory",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T08:41:38Z",
+                "owner": "gdsfactory",
+                "repo": "kfactory",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "siepic-ebeam-pdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Logos",
+                "last_commit": "2024-10-14T05:51:01Z",
+                "owner": "lukasc-ubc",
+                "repo": "SiEPIC_EBeam_PDK",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zero-pdk",
+              "description": "klayout pure python pdk.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-01-23T04:10:03Z",
+                "owner": "lightwave-lab",
+                "repo": "zeropdk",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "klayout cross-section in python",
+              "description": "Port from ruby to python to xsection macro",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-01T09:23:16Z",
+                "owner": "gdsfactory",
+                "repo": "klayout_pyxs",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flayout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-25T23:48:54Z",
+                "owner": "flaport",
+                "repo": "flayout",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spicex: netlist extraction",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-01-31T12:58:13Z",
+                "owner": "fsitok",
+                "repo": "spicex",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simplify polygons",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-12-20T20:28:28Z",
+                "owner": "fsitok",
+                "repo": "klayout-simplify",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "klayout python",
+              "description": null,
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T21:57:50Z",
+            "owner": "KLayout",
+            "repo": "klayout",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdsfactory",
+          "description": "code - includes plugins to other tools.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "skywater130",
+              "description": "and code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T02:37:23Z",
+                "owner": "gdsfactory",
+                "repo": "skywater130",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ubcpdk",
+              "description": "and code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T02:51:41Z",
+                "owner": "gdsfactory",
+                "repo": "ubc",
+                "stars": 35
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:48:39Z",
+            "owner": "gdsfactory",
+            "repo": "gdsfactory",
+            "stars": 1009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdstk",
+          "description": "faster than gdspy (from same author)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyphotonics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-09T23:52:31Z",
+                "owner": "rohanku",
+                "repo": "pyphotonics",
+                "stars": 5
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T23:06:04Z",
+            "owner": "heitzmann",
+            "repo": "gdstk",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qiskit-metal",
+          "description": "IBM superconducting based qubits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T05:32:07Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-metal",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdspy based tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "phidl",
+              "description": "made for superconducting detectors",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "soen-pdk docs",
+                  "description": "and code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-07-24T19:44:19Z",
+                    "owner": "usnistgov",
+                    "repo": "SOEN-PDK",
+                    "stars": 15
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-08T14:03:06Z",
+                "owner": "amccaugh",
+                "repo": "phidl",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "picwriter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-02-05T03:20:09Z",
+                "owner": "DerekK44",
+                "repo": "PICwriter",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BerkeleyPhotonicsGenerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-09T01:37:43Z",
+                "owner": "BerkeleyPhotonicsGenerator",
+                "repo": "BPG",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ayar cell generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-06-01T20:37:45Z",
+                "owner": "AyarLabs",
+                "repo": "ACG",
+                "stars": 17
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-11T15:17:23Z",
+            "owner": "heitzmann",
+            "repo": "gdspy",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "shapely based tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gdshelpers",
+              "description": "includes superconducting detectors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-05-25T10:22:24Z",
+                "owner": "HelgeGehring",
+                "repo": "gdshelpers",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dphox",
+              "description": "includes 3D MEMs structures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-14T07:50:04Z",
+                "owner": "solgaardlab",
+                "repo": "dphox",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "layout viewers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GDS3D",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-08-20T08:13:41Z",
+                "owner": "trilomix",
+                "repo": "GDS3D",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GDS2WebGL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-08-23T08:32:12Z",
+                "owner": "s-holst",
+                "repo": "GDS2WebGL",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kweb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "CSS",
+                "last_commit": "2026-06-05T10:42:44Z",
+                "owner": "gdsfactory",
+                "repo": "kweb",
+                "stars": 34
+              }
+            }
+          ]
+        }
+      ],
+      "title": "layout"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "mode solver:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Finite Element",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "elmer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Fortran",
+                    "last_commit": "2026-08-12T12:25:53Z",
+                    "owner": "ElmerCSC",
+                    "repo": "elmerfem",
+                    "stars": 1661
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jax-fem",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T03:48:59Z",
+                    "owner": "deepmodeling",
+                    "repo": "jax-fem",
+                    "stars": 737
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ngsolve",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-08-12T12:22:46Z",
+                    "owner": "NGSolve",
+                    "repo": "ngsolve",
+                    "stars": 573
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Finite Difference",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tidy3d",
+                  "description": "Mode solver is open source",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-07T07:32:11Z",
+                    "owner": "flexcompute",
+                    "repo": "tidy3d",
+                    "stars": 357
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EMpy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-21T09:47:57Z",
+                    "owner": "lbolla",
+                    "repo": "EMpy",
+                    "stars": 228
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "khronos",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Julia",
+                    "last_commit": "2026-04-10T03:49:35Z",
+                    "owner": "facebookresearch",
+                    "repo": "Khronos.jl",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "philsol",
+                  "description": "Allows bends.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-03-17T10:01:59Z",
+                    "owner": "philmain28",
+                    "repo": "philsol",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pyMWM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-01-16T14:57:15Z",
+                    "owner": "mnishida",
+                    "repo": "PyMWM",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pymode",
+                  "description": "Allows bends.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-06-29T14:23:12Z",
+                    "owner": "smartalecH",
+                    "repo": "pyMode",
+                    "stars": 6
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "component design:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SiPANN (neural networks for photonics component design)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-05T18:19:50Z",
+                "owner": "BYUCamachoLab",
+                "repo": "SiPANN",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCAD",
+              "description": "tcad repos TCAD Overview spreadsheet here",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TCAD docker containers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Dockerfile",
+                    "last_commit": "2026-06-25T09:01:00Z",
+                    "owner": "thesourcerer8",
+                    "repo": "OpenSourceTCAD",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Suprem4",
+                  "description": "Process simulator (no python)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C",
+                    "last_commit": "2014-10-09T05:02:30Z",
+                    "owner": "cogenda",
+                    "repo": "Suprem4",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Charon",
+                  "description": "Paralell TCAD simulator. GitHub mirror",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2022-07-29T03:00:39Z",
+                    "owner": "tcadsoftware",
+                    "repo": "charon",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pisces",
+                  "description": "Poison and continuity equation solver (no python)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C",
+                    "last_commit": "2020-07-12T14:54:18Z",
+                    "owner": "ComputerWhisperer",
+                    "repo": "pisces",
+                    "stars": 9
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2026-06-25T09:01:00Z",
+                "owner": "thesourcerer8",
+                "repo": "OpenSourceTCAD",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-05T21:14:28Z",
+                "owner": "zhuhanqing",
+                "repo": "Lightening-Transformer",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sipkit",
+              "description": "A JAX-compatible toolkit providing fundamental waveguide and material properties to aid in the design of silicon photonic components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-07-02T13:09:20Z",
+                "owner": "Photonic-Architecture-Laboratories",
+                "repo": "si-photonics-toolkit",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "FDTD - Finite differences time domain.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "meep FDTD",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "grating coupler example",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "Python",
+                        "last_commit": "2022-07-10T15:05:41Z",
+                        "owner": "simbilod",
+                        "repo": "optio",
+                        "stars": 12
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "meep ipkiss integration",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "Python",
+                        "last_commit": "2019-06-20T10:29:03Z",
+                        "owner": "luceda",
+                        "repo": "ipkiss_meep_integration",
+                        "stars": 11
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "meep docker image",
+                      "description": "code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": null,
+                        "last_commit": "2021-09-19T20:18:12Z",
+                        "owner": "mochen4",
+                        "repo": "meepdocker",
+                        "stars": 1
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-08-09T17:15:32Z",
+                    "owner": "NanoComp",
+                    "repo": "meep",
+                    "stars": 1737
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python 3D FDTD simulator",
+                  "description": "Written in PyTorch.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-09-22T10:04:12Z",
+                    "owner": "flaport",
+                    "repo": "fdtd",
+                    "stars": 713
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tidy3d client docs",
+                  "description": "and code - Server is propietary.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-07T07:32:11Z",
+                    "owner": "flexcompute",
+                    "repo": "tidy3d",
+                    "stars": 357
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fdtdx",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-12T12:21:19Z",
+                    "owner": "ymahlau",
+                    "repo": "fdtdx",
+                    "stars": 332
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fdtdz",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2025-02-08T00:57:37Z",
+                    "owner": "spinsphotonics",
+                    "repo": "fdtdz",
+                    "stars": 160
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "emopt FDTD",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-02-17T18:08:03Z",
+                    "owner": "anstmichaels",
+                    "repo": "emopt",
+                    "stars": 119
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luminescent",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-05-08T00:25:15Z",
+                    "owner": "paulxshen",
+                    "repo": "Luminescent.jl",
+                    "stars": 89
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "khronos",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Julia",
+                    "last_commit": "2026-04-10T03:49:35Z",
+                    "owner": "facebookresearch",
+                    "repo": "Khronos.jl",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ARTEMIS",
+                  "description": "High-performance FDTD solver coupled with magnetization dynamics (LLG), GPU-accelerated for microelectronics and superconducting devices",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-05-24T05:57:52Z",
+                    "owner": "AMReX-Microelectronics",
+                    "repo": "artemis",
+                    "stars": 44
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "FDFD - Finite differences frequency domain.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ceviche (2D only) FDTD and FDFD",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-07-06T21:35:53Z",
+                    "owner": "fancompute",
+                    "repo": "ceviche",
+                    "stars": 422
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spins FDFD on GPU",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-04-13T05:37:55Z",
+                    "owner": "stanfordnqp",
+                    "repo": "spins-b",
+                    "stars": 350
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jaxwell",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-09-27T04:08:14Z",
+                    "owner": "stanfordnqp",
+                    "repo": "jaxwell",
+                    "stars": 51
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "EME - Eigen mode expansion.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CAMFR",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2023-03-21T11:05:17Z",
+                    "owner": "demisjohn",
+                    "repo": "CAMFR",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "meow",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-06-16T21:51:44Z",
+                    "owner": "gdsfactory",
+                    "repo": "meow",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "emepy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-10-03T21:36:48Z",
+                    "owner": "BYUCamachoLab",
+                    "repo": "emepy",
+                    "stars": 49
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RCWA:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "S4",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2021-01-26T07:24:58Z",
+                    "owner": "victorliu",
+                    "repo": "S4",
+                    "stars": 184
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FMMAX",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-02-10T14:17:39Z",
+                    "owner": "facebookresearch",
+                    "repo": "fmmax",
+                    "stars": 151
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "grcwa",
+                  "description": "automatic differentiation included with autograd",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-04-13T01:32:28Z",
+                    "owner": "weiliangjinca",
+                    "repo": "grcwa",
+                    "stars": 107
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "inkstone",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-11-02T06:34:06Z",
+                    "owner": "alexysong",
+                    "repo": "inkstone",
+                    "stars": 71
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "inverse design",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "wavetorch",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2020-02-08T05:12:15Z",
+                    "owner": "fancompute",
+                    "repo": "wavetorch",
+                    "stars": 543
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lumopt",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-03-20T00:35:04Z",
+                    "owner": "chriskeraly",
+                    "repo": "lumopt",
+                    "stars": 211
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "angler",
+                  "description": "Frequency-domain photonic simulation and inverse design optimization for linear and nonlinear devices.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2019-12-14T13:10:50Z",
+                    "owner": "fancompute",
+                    "repo": "angler",
+                    "stars": 194
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ceviche-challenges code",
+                  "description": "Photonic inverse designs based on the FDFD simulator Ceviche",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Python",
+                    "last_commit": "2024-01-20T18:04:58Z",
+                    "owner": "google",
+                    "repo": "ceviche-challenges",
+                    "stars": 127
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "glonet: global optimization based on generative neural networks",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-11-17T07:11:09Z",
+                    "owner": "jonfanlab",
+                    "repo": "GLOnet",
+                    "stars": 124
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SPLayout code",
+                  "description": "docs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-09-06T06:19:44Z",
+                    "owner": "Hideousmon",
+                    "repo": "SPLayout",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NIDN",
+                  "description": "Inverse design of metamaterials, photonic crystals, ... using PyTorch",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-10-31T13:39:15Z",
+                    "owner": "esa",
+                    "repo": "NIDN",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Neural Operator-based Surrogate Solver for Free-Form Electromagnetic Inverse Design [Paper",
+                  "description": "] [Github]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-02-28T08:05:36Z",
+                    "owner": "tfp-photonics",
+                    "repo": "neurop_invdes",
+                    "stars": 51
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ray tracing:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "scattering tools",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-24T03:05:10Z",
+                    "owner": "rafael-fuente",
+                    "repo": "diffractsim",
+                    "stars": 1064
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "optiland",
+                  "description": "Comprehensive optical design with GPU-accelerated ray tracing via PyTorch",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-12T18:44:14Z",
+                    "owner": "optiland",
+                    "repo": "optiland",
+                    "stars": 857
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rayoptics",
+                  "description": "Optical design and analysis in Python",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T18:17:12Z",
+                    "owner": "mjhoptics",
+                    "repo": "ray-optics",
+                    "stars": 401
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ray tracing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-08T16:06:55Z",
+                    "owner": "DCC-Lab",
+                    "repo": "RayTracing",
+                    "stars": 344
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rayopt",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-08-15T20:17:45Z",
+                    "owner": "quartiq",
+                    "repo": "rayopt",
+                    "stars": 310
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pyrate",
+                  "description": "Optical raytracing based on Python",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-06-26T12:49:18Z",
+                    "owner": "mess42",
+                    "repo": "pyrate",
+                    "stars": 203
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "multisolvers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "simphox (FDTD, beamPropagation, circuit simulation)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-01-07T23:19:44Z",
+                    "owner": "fancompute",
+                    "repo": "simphox",
+                    "stars": 18
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "transfer matrix",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TMM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-11-26T18:55:08Z",
+                    "owner": "sbyrnes321",
+                    "repo": "tmm",
+                    "stars": 264
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tmmax",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-02-11T11:48:27Z",
+                    "owner": "bahremsd",
+                    "repo": "tmmax",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyElli",
+                  "description": "Toolkit for 1D optical simulations, with a focus on ellipsometry",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-03T08:52:32Z",
+                    "owner": "PyEllips",
+                    "repo": "pyElli",
+                    "stars": 38
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "circuit simulation:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyFDA filter design code",
+              "description": "and docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-10T14:38:27Z",
+                "owner": "chipmuenk",
+                "repo": "pyfda",
+                "stars": 730
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Sparameter linear solvers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SignalIntegrity (linear circuit simulation)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T00:20:56Z",
+                    "owner": "Nubis-Communications",
+                    "repo": "SignalIntegrity",
+                    "stars": 208
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "simphony (linear circuit solver)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-10T06:12:20Z",
+                    "owner": "BYUCamachoLab",
+                    "repo": "simphony",
+                    "stars": 168
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAX code",
+                  "description": "and docs - Differentiable circuit solver.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-06-19T15:12:04Z",
+                    "owner": "gdsfactory",
+                    "repo": "sax",
+                    "stars": 129
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "photontorch docs",
+                  "description": "code - Includes time domain.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-06-16T19:38:09Z",
+                    "owner": "flaport",
+                    "repo": "photontorch",
+                    "stars": 93
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "opics",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-03-02T06:35:34Z",
+                    "owner": "SiEPIC",
+                    "repo": "opics",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lekkersim",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-07-12T16:49:42Z",
+                    "owner": "mpasson",
+                    "repo": "lekkersim",
+                    "stars": 9
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Optical communications",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "optiCommPy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-01T02:50:36Z",
+                    "owner": "edsonportosilva",
+                    "repo": "OptiCommPy",
+                    "stars": 205
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QAMpy",
+                  "description": "DSP chain for simulation and equalisation of optical communications signals",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-04-28T11:48:15Z",
+                    "owner": "ChalmersPhotonicsLab",
+                    "repo": "QAMpy",
+                    "stars": 87
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RF photonic link analysis",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Princeton RF photonic notebooks",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-07-02T20:54:15Z",
+                    "owner": "ericcblow",
+                    "repo": "MicrowavePhotonicSimulations",
+                    "stars": 12
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Spice",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pyspice",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-08-13T15:11:18Z",
+                    "owner": "PySpice-org",
+                    "repo": "PySpice",
+                    "stars": 857
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lcapy",
+                  "description": "Linear circuit analysis.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-26T21:47:13Z",
+                    "owner": "mph-",
+                    "repo": "lcapy",
+                    "stars": 300
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "openVAF",
+                  "description": "Verilog-A",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Rust",
+                    "last_commit": "2024-08-20T20:24:30Z",
+                    "owner": "pascalkuthe",
+                    "repo": "OpenVAF",
+                    "stars": 194
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "nonlinear schrodinger equation (NLSE): calculate the propagation of pulses along a fiber/waveguide in the presence of dispersion and nonlinearity.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyNLO",
+              "description": "more capable, but unmaintained",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-17T17:41:03Z",
+                "owner": "pyNLO",
+                "repo": "PyNLO",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laserfun",
+              "description": "aims for simplicity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-06T00:39:23Z",
+                "owner": "DanHickstein",
+                "repo": "laserfun",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Lugiato Lefever Equation (LLE) to calculate propagation in ring resonators:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyLLE",
+              "description": "has more features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-24T14:14:21Z",
+                "owner": "gregmoille",
+                "repo": "pyLLE",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyGLLE",
+              "description": "is nice and simple",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-22T08:35:14Z",
+                "owner": "omelchert",
+                "repo": "pyGLLE",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "material database",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rii pandas",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-28T02:45:07Z",
+                "owner": "mnishida",
+                "repo": "RII_Pandas",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "lithography simulation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "optolithium",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2023-04-09T10:37:01Z",
+                "owner": "xthebat",
+                "repo": "optolithium",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "notebooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-10-26T06:54:27Z",
+                "owner": "pierremifasol",
+                "repo": "Lithography-Simulation",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dimmilitho",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-10T08:10:49Z",
+                "owner": "vincentlv",
+                "repo": "DimmiLitho",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keras based litho model",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-02T14:23:20Z",
+                "owner": "Dusandinho",
+                "repo": "PreFab",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "free space",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "diffractsim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-24T03:05:10Z",
+                "owner": "rafael-fuente",
+                "repo": "diffractsim",
+                "stars": 1064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prysm",
+              "description": "Physical optics with integrated modeling, phase retrieval, segmented systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-26T02:06:40Z",
+                "owner": "brandondube",
+                "repo": "prysm",
+                "stars": 346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lightpipes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-26T21:37:13Z",
+                "owner": "opticspy",
+                "repo": "lightpipes",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "POPPY",
+              "description": "Physical Optics Propagation in Python for diffraction modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-10T20:33:16Z",
+                "owner": "mperrin",
+                "repo": "poppy",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TorchOptics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-13T16:10:18Z",
+                "owner": "MatthewFilipovich",
+                "repo": "torchoptics",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HCIPy",
+              "description": "High Contrast Imaging for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T20:44:29Z",
+                "owner": "ehpor",
+                "repo": "hcipy",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poke",
+              "description": "Polarization ray tracing and Gaussian beamlet module",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-05T17:47:24Z",
+                "owner": "Jashcraf",
+                "repo": "poke",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "waveprop",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-03-18T18:47:39Z",
+                "owner": "HelgeGehring",
+                "repo": "wavepropagation",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "simulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "backend:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PySerial",
+              "description": "Issue simple serial commands (RS-232, RS485) to instruments (and read data).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-19T21:16:00Z",
+                "owner": "pyserial",
+                "repo": "pyserial",
+                "stars": 3564
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "lab automation repos:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pymeasure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-06T17:30:13Z",
+                "owner": "pymeasure",
+                "repo": "pymeasure",
+                "stars": 767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hardware testing framework",
+              "description": "Google",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T00:29:47Z",
+                "owner": "google",
+                "repo": "openhtf",
+                "stars": 716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AlexShkarin/pyLabLib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-02T20:36:18Z",
+                "owner": "AlexShkarin",
+                "repo": "pyLabLib",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "instrumental",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-01T01:19:01Z",
+                "owner": "mabuchilab",
+                "repo": "Instrumental",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "labrad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-02T21:22:45Z",
+                "owner": "labrad",
+                "repo": "pylabrad",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lightlab",
+              "description": "docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-13T18:18:20Z",
+                "owner": "lightwave-lab",
+                "repo": "lightlab",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SiePIC lab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-08T01:34:23Z",
+                "owner": "SiEPIC",
+                "repo": "SiEPIClab",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LabEXT docs",
+              "description": "and code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-31T15:35:46Z",
+                "owner": "LabExT",
+                "repo": "LabExT",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drivers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T11:35:39Z",
+                "owner": "SweepMe",
+                "repo": "instrument-drivers",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "measurement sequencer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-29T10:23:23Z",
+                "owner": "SweepMe",
+                "repo": "pysweepme",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pic-wafer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-03-25T14:44:21Z",
+                "owner": "DerekK44",
+                "repo": "PIC_WaferProbeSystem",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "laval python lab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-01T16:00:59Z",
+                "owner": "Simon-Belanger",
+                "repo": "ULPythonLab",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autosweep",
+              "description": "docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T20:12:43Z",
+                "owner": "gdsfactory",
+                "repo": "autosweep",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyrolab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-20T21:31:02Z",
+                "owner": "BYUCamachoLab",
+                "repo": "pyrolab",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autogator",
+              "description": "camera-assisted motion control and experiment configuration of photonic integrated circuit interrogation platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-04T16:41:05Z",
+                "owner": "BYUCamachoLab",
+                "repo": "autogator",
+                "stars": 7
+              }
+            }
+          ]
+        }
+      ],
+      "title": "lab automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wafermap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T02:52:21Z",
+            "owner": "xlhaw",
+            "repo": "wfmap",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wafer data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-29T06:41:53Z",
+            "owner": "guanghaofan",
+            "repo": "wafermap",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Webapp",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "streamlit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T04:15:19Z",
+                "owner": "streamlit",
+                "repo": "streamlit",
+                "stars": 45541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "voila",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-03T19:33:25Z",
+                "owner": "voila-dashboards",
+                "repo": "voila",
+                "stars": 5941
+              }
+            }
+          ]
+        }
+      ],
+      "title": "data analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "transmission line wcalc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-09T07:15:26Z",
+            "owner": "dmcmahill",
+            "repo": "wcalc",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "schematic capture:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elkjs code",
+              "description": "demo - Javascript schematic editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T14:14:52Z",
+                "owner": "kieler",
+                "repo": "elkjs",
+                "stars": 2700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skidl: netlist formatting, writing, and reading",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T02:55:22Z",
+                "owner": "devbisme",
+                "repo": "skidl",
+                "stars": 1620
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "layout",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VLSI placement",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-18T08:53:32Z",
+                "owner": "limbo018",
+                "repo": "DREAMPlace",
+                "stars": 1034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kicad PCB layout python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-13T14:31:33Z",
+                "owner": "atait",
+                "repo": "kicad-python",
+                "stars": 79
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "circuit simulation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spice book",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-01-28T07:51:03Z",
+                "owner": "PyLCARS",
+                "repo": "Python-and-SPICE-Book",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "open source pdks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "skywater-pdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-21T22:02:44Z",
+                "owner": "google",
+                "repo": "skywater-pdk",
+                "stars": 3649
+              }
+            }
+          ]
+        }
+      ],
+      "title": "electronics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T18:50:03Z",
+            "owner": "awesome-selfhosted",
+            "repo": "awesome-selfhosted",
+            "stars": 312283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome electronics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-05T18:43:02Z",
+            "owner": "kitspace",
+            "repo": "awesome-electronics",
+            "stars": 8009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome quantum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T12:33:30Z",
+            "owner": "qosf",
+            "repo": "awesome-quantum-software",
+            "stars": 2371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome scientific computing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T10:32:58Z",
+            "owner": "nschloe",
+            "repo": "awesome-scientific-computing",
+            "stars": 1579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "princeton notebooks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-09-16T15:58:02Z",
+            "owner": "simbilod",
+            "repo": "ELE559-simulations",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "other links"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:46.291Z",
+    "original_repository": "joamatab/awesome_photonics",
+    "original_repository_sha": "da67a068c45599eadd3624bfb8501c87cd0828d9",
+    "enhanced_repository": "enhansome/enhansome_photonics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Photonics with stars"
+  }
+}
