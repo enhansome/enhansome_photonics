@@ -21,7 +21,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 ## layout
 
-* [klayout](https://github.com/KLayout/klayout) ⭐ 1,181 | 🐛 217 | 🌐 C++ | 📅 2026-08-23 - layout viewer with python API
+* [klayout](https://github.com/KLayout/klayout) ⭐ 1,182 | 🐛 217 | 🌐 C++ | 📅 2026-08-23 - layout viewer with python API
   * [siepic-tools](https://github.com/lukasc-ubc/SiEPIC-Tools) ⭐ 266 | 🐛 82 | 🌐 Python | 📅 2025-10-10 - code driven PCells and GUI driven layouts.
   * [KQcircuits](https://github.com/iqm-finland/KQCircuits) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-06-18 - Quantum circuits pdk.
   * [kfactory](https://github.com/gdsfactory/kfactory) ⭐ 65 | 🐛 13 | 🌐 Python | 📅 2026-08-24
@@ -35,7 +35,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
   * [gds3xtrude](https://codeberg.org/tok)
   * [klayout python](https://github.com/shamil777/KLayout-python)
 
-* [gdsfactory](https://gdsfactory.github.io/gdsfactory/) [code](https://github.com/gdsfactory/gdsfactory) ⭐ 1,016 | 🐛 124 | 🌐 Python | 📅 2026-08-21 - includes plugins to other tools.
+* [gdsfactory](https://gdsfactory.github.io/gdsfactory/) [code](https://github.com/gdsfactory/gdsfactory) ⭐ 1,017 | 🐛 124 | 🌐 Python | 📅 2026-08-21 - includes plugins to other tools.
   * [skywater130](https://gdsfactory.github.io/skywater130) and [code](https://github.com/gdsfactory/skywater130) ⭐ 58 | 🐛 30 | 🌐 Python | 📅 2026-08-20
   * [ubcpdk](https://gdsfactory.github.io/ubc) and [code](https://github.com/gdsfactory/ubc) ⭐ 35 | 🐛 16 | 🌐 Python | 📅 2026-08-07
   * [gplugins](https://gdsfactory.github.io/gplugins)
@@ -75,7 +75,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * mode solver:
 
   * Finite Element
-    * [elmer](https://github.com/elmercsc/elmerfem) ⭐ 1,673 | 🐛 76 | 🌐 Fortran | 📅 2026-08-23
+    * [elmer](https://github.com/elmercsc/elmerfem) ⭐ 1,674 | 🐛 79 | 🌐 Fortran | 📅 2026-08-24
     * [jax-fem](https://github.com/deepmodeling/jax-fem) ⭐ 741 | 🐛 27 | 🌐 Python | 📅 2026-08-20
     * [ngsolve](https://github.com/NGSolve/ngsolve) ⭐ 575 | 🐛 22 | 🌐 C++ | 📅 2026-08-17
     * [femwell](https://helgegehring.github.io/femwell/)
@@ -107,13 +107,13 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
   * [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://github.com/zhuhanqing/Lightening-Transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-02-05
   * [Sipkit](https://github.com/Photonic-Architecture-Laboratories/si-photonics-toolkit) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2025-07-02 - A JAX-compatible toolkit providing fundamental waveguide and material properties to aid in the design of silicon photonic components.
   * FDTD - Finite differences time domain.
-    * [meep FDTD](https://github.com/NanoComp/meep) ⭐ 1,745 | 🐛 375 | 🌐 C++ | 📅 2026-08-21
+    * [meep FDTD](https://github.com/NanoComp/meep) ⭐ 1,747 | 🐛 375 | 🌐 C++ | 📅 2026-08-21
       * [grating coupler example](https://github.com/simbilod/grating_coupler_meep) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-07-10
       * [meep ipkiss integration](https://github.com/luceda/ipkiss_meep_integration) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2019-06-20
       * [meep docker image](https://hub.docker.com/r/mochen4/meepdocker) - [code](https://github.com/mochen4/meepdocker) ⭐ 1 | 🐛 0 | 📅 2021-09-19
     * [Python 3D FDTD simulator](https://github.com/flaport/fdtd) ⭐ 714 | 🐛 28 | 🌐 Python | 📅 2025-09-22 - Written in PyTorch.
     * tidy3d client [docs](https://docs.simulation.cloud/projects/tidy3d/en/latest/) and [code](https://github.com/flexcompute/tidy3d) ⭐ 360 | 🐛 86 | 🌐 Python | 📅 2026-08-07 - Server is propietary.
-    * [fdtdx](https://github.com/ymahlau/fdtdx) ⭐ 337 | 🐛 46 | 🌐 Python | 📅 2026-08-19
+    * [fdtdx](https://github.com/ymahlau/fdtdx) ⭐ 337 | 🐛 45 | 🌐 Python | 📅 2026-08-24
     * [fdtdz](https://github.com/spinsphotonics/fdtdz) ⭐ 160 | 🐛 6 | 🌐 C++ | 📅 2025-02-08
     * [emopt FDTD](https://github.com/anstmichaels/emopt) ⭐ 119 | 🐛 9 | 🌐 Python | 📅 2026-02-17
     * [Luminescent](https://github.com/paulxshen/Luminescent.jl) ⭐ 89 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-05-08
@@ -121,7 +121,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
     * [ARTEMIS](https://github.com/AMReX-Microelectronics/artemis) ⭐ 45 | 🐛 15 | 🌐 C++ | 📅 2026-08-18 - High-performance FDTD solver coupled with magnetization dynamics (LLG), GPU-accelerated for microelectronics and superconducting devices
     * [GSvit](http://gsvit.net/) - GPU support
   * FDFD - Finite differences frequency domain.
-    * [ceviche (2D only) FDTD and FDFD](https://github.com/twhughes/ceviche) ⭐ 421 | 🐛 10 | 🌐 Python | 📅 2023-07-06
+    * [ceviche (2D only) FDTD and FDFD](https://github.com/twhughes/ceviche) ⭐ 422 | 🐛 10 | 🌐 Python | 📅 2023-07-06
     * [spins FDFD on GPU](https://github.com/stanfordnqp/spins-b) ⭐ 351 | 🐛 15 | 🌐 Python | 📅 2024-04-13
     * [jaxwell](https://github.com/stanfordnqp/jaxwell) ⚠️ Archived
   * EME - Eigen mode expansion.
@@ -232,7 +232,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
   * [PyVISA](https://pyvisa.readthedocs.io/en/latest/) - Allows you to control the lab instruments with python. As the backend you can use NI or [PyVISA-py](https://pyvisa-py.readthedocs.io/en/latest/).
 
 * lab automation repos:
-  * [pymeasure](https://github.com/pymeasure/pymeasure) ⭐ 768 | 🐛 207 | 🌐 Python | 📅 2026-08-21
+  * [pymeasure](https://github.com/pymeasure/pymeasure) ⭐ 769 | 🐛 206 | 🌐 Python | 📅 2026-08-24
   * [hardware testing framework](https://github.com/google/openhtf) ⭐ 717 | 🐛 140 | 🌐 Python | 📅 2026-08-13 - Google
   * <https://github.com/AlexShkarin/pyLabLib> ⭐ 210 | 🐛 87 | 🌐 Python | 📅 2026-05-02
   * [instrumental](https://github.com/mabuchilab/Instrumental) ⭐ 136 | 🐛 60 | 🌐 Python | 📅 2025-01-01
@@ -256,14 +256,14 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * pandas
 * dask
 * Webapp
-  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,599 | 🐛 1,191 | 🌐 Python | 📅 2026-08-24
+  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,602 | 🐛 1,193 | 🌐 Python | 📅 2026-08-24
   * [voila](https://github.com/voila-dashboards/voila) ⭐ 5,939 | 🐛 328 | 🌐 Python | 📅 2026-08-03
   * [plotly dash](https://dash.plotly.com/)
 
 ## Visualization
 
 * [Klayout](https://www.klayout.de/) for GDS files
-* [Meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,798 | 🐛 197 | 🌐 C++ | 📅 2026-08-12 for STL
+* [Meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,798 | 🐛 197 | 🌐 C++ | 📅 2026-08-24 for STL
 * [ParaView](https://www.paraview.org/) for data visualization
 
 ## electronics
@@ -271,8 +271,8 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * transmission line [wcalc](https://github.com/dmcmahill/wcalc) ⭐ 16 | 🐛 3 | 🌐 C | 📅 2025-03-09
 
 * schematic capture:
-  * elkjs [code](https://github.com/kieler/elkjs) ⭐ 2,717 | 🐛 98 | 🌐 JavaScript | 📅 2026-08-13 [demo](https://rtsys.informatik.uni-kiel.de/elklive/elkgraph.html) - Javascript schematic editor.
-  * [skidl: netlist formatting, writing, and reading](https://github.com/devbisme/skidl) ⭐ 1,630 | 🐛 46 | 🌐 Python | 📅 2026-08-20
+  * elkjs [code](https://github.com/kieler/elkjs) ⭐ 2,721 | 🐛 98 | 🌐 JavaScript | 📅 2026-08-13 [demo](https://rtsys.informatik.uni-kiel.de/elklive/elkgraph.html) - Javascript schematic editor.
+  * [skidl: netlist formatting, writing, and reading](https://github.com/devbisme/skidl) ⭐ 1,631 | 🐛 46 | 🌐 Python | 📅 2026-08-20
 
 * layout
 
@@ -285,14 +285,14 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 * open source pdks
 
-  * [skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,666 | 🐛 199 | 🌐 Python | 📅 2026-07-21
+  * [skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,667 | 🐛 199 | 🌐 Python | 📅 2026-07-21
 
 ## other links
 
-* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 499,330 | 🐛 106 | 📅 2026-08-21
-* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 314,565 | 🐛 0 | 📅 2026-08-22
-* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,054 | 🐛 30 | 📅 2026-01-05
-* [Awesome quantum](https://github.com/qosf/awesome-quantum-software) ⭐ 2,382 | 🐛 6 | 📅 2026-08-19
+* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 499,517 | 🐛 106 | 📅 2026-08-21
+* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 314,659 | 🐛 0 | 📅 2026-08-22
+* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,058 | 🐛 30 | 📅 2026-01-05
+* [Awesome quantum](https://github.com/qosf/awesome-quantum-software) ⭐ 2,382 | 🐛 5 | 📅 2026-08-24
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing) ⭐ 1,582 | 🐛 17 | 🌐 Python | 📅 2026-07-20
 * [princeton notebooks](https://github.com/simbilod/ELE559-simulations) ⭐ 43 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-09-16
 * <https://hackmd.io/@joamatab/rJngxJudr#/>
