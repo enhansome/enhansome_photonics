@@ -47,7 +47,7 @@
                 "archived": false,
                 "id": 575172245,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:14:31Z",
+                "last_commit": "2026-08-24T02:13:04Z",
                 "owner": "gdsfactory",
                 "repo": "kfactory",
                 "stars": 65
@@ -148,7 +148,7 @@
             "archived": false,
             "id": 81722454,
             "language": "C++",
-            "last_commit": "2026-08-22T21:25:37Z",
+            "last_commit": "2026-08-23T20:49:28Z",
             "owner": "KLayout",
             "repo": "klayout",
             "stars": 1181
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-11T05:32:07Z",
             "owner": "qiskit-community",
             "repo": "qiskit-metal",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -452,10 +452,10 @@
                     "archived": false,
                     "id": 16771087,
                     "language": "Fortran",
-                    "last_commit": "2026-08-22T21:02:16Z",
+                    "last_commit": "2026-08-23T15:23:04Z",
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
-                    "stars": 1672
+                    "stars": 1673
                   }
                 },
                 {
@@ -519,7 +519,7 @@
                     "archived": false,
                     "id": 4781578,
                     "language": "Python",
-                    "last_commit": "2026-07-21T09:47:57Z",
+                    "last_commit": "2026-08-24T02:36:18Z",
                     "owner": "lbolla",
                     "repo": "EMpy",
                     "stars": 228
@@ -1233,7 +1233,7 @@
                     "last_commit": "2026-08-20T10:26:13Z",
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 918
+                    "stars": 919
                   }
                 },
                 {
@@ -1388,7 +1388,7 @@
                 "archived": false,
                 "id": 24369605,
                 "language": "Python",
-                "last_commit": "2026-08-22T20:31:21Z",
+                "last_commit": "2026-08-23T19:59:01Z",
                 "owner": "chipmuenk",
                 "repo": "pyfda",
                 "stars": 730
@@ -1408,10 +1408,10 @@
                     "archived": false,
                     "id": 49224614,
                     "language": "Python",
-                    "last_commit": "2026-08-20T19:47:49Z",
+                    "last_commit": "2026-08-24T01:37:31Z",
                     "owner": "Nubis-Communications",
                     "repo": "SignalIntegrity",
-                    "stars": 211
+                    "stars": 212
                   }
                 },
                 {
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 137013205,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:04:39Z",
+                "last_commit": "2026-08-23T23:26:08Z",
                 "owner": "ehpor",
                 "repo": "hcipy",
                 "stars": 143
@@ -1969,7 +1969,7 @@
                 "last_commit": "2026-05-02T20:36:18Z",
                 "owner": "AlexShkarin",
                 "repo": "pyLabLib",
-                "stars": 209
+                "stars": 210
               }
             },
             {
@@ -2204,10 +2204,10 @@
                 "archived": false,
                 "id": 204086862,
                 "language": "Python",
-                "last_commit": "2026-08-23T00:18:19Z",
+                "last_commit": "2026-08-24T01:00:26Z",
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45593
+                "stars": 45599
               }
             },
             {
@@ -2222,7 +2222,7 @@
                 "last_commit": "2026-08-03T19:33:25Z",
                 "owner": "voila-dashboards",
                 "repo": "voila",
-                "stars": 5940
+                "stars": 5939
               }
             }
           ]
@@ -2280,7 +2280,7 @@
                 "last_commit": "2026-08-20T13:25:06Z",
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1628
+                "stars": 1630
               }
             }
           ]
@@ -2361,7 +2361,7 @@
                 "last_commit": "2026-07-21T22:02:44Z",
                 "owner": "google",
                 "repo": "skywater-pdk",
-                "stars": 3663
+                "stars": 3666
               }
             }
           ]
@@ -2384,7 +2384,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499017
+            "stars": 499330
           }
         },
         {
@@ -2399,7 +2399,7 @@
             "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314380
+            "stars": 314565
           }
         },
         {
@@ -2414,7 +2414,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8051
+            "stars": 8054
           }
         },
         {
@@ -2429,7 +2429,7 @@
             "last_commit": "2026-08-19T05:53:51Z",
             "owner": "qosf",
             "repo": "awesome-quantum-software",
-            "stars": 2381
+            "stars": 2382
           }
         },
         {
@@ -2444,7 +2444,7 @@
             "last_commit": "2026-07-20T10:32:58Z",
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
-            "stars": 1581
+            "stars": 1582
           }
         },
         {
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:57:39.594Z",
+    "last_updated": "2026-08-24T02:58:25.128Z",
     "original_repository": "joamatab/awesome_photonics",
     "original_repository_id": 208153462,
     "original_repository_sha": "da67a068c45599eadd3624bfb8501c87cd0828d9",
