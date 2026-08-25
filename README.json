@@ -197,7 +197,7 @@
             "last_commit": "2026-08-24T23:22:35Z",
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1017
+            "stars": 1018
           }
         },
         {
@@ -775,7 +775,7 @@
                     "archived": false,
                     "id": 18223131,
                     "language": "C++",
-                    "last_commit": "2026-08-24T22:58:04Z",
+                    "last_commit": "2026-08-25T03:42:22Z",
                     "owner": "NanoComp",
                     "repo": "meep",
                     "stars": 1747
@@ -1959,7 +1959,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/AlexShkarin/pyLabLib",
+              "title": "AlexShkarin/pyLabLib",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2204,7 +2204,7 @@
                 "archived": false,
                 "id": 204086862,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:56:06Z",
+                "last_commit": "2026-08-25T05:43:52Z",
                 "owner": "streamlit",
                 "repo": "streamlit",
                 "stars": 45605
@@ -2361,7 +2361,7 @@
                 "last_commit": "2026-07-21T22:02:44Z",
                 "owner": "google",
                 "repo": "skywater-pdk",
-                "stars": 3667
+                "stars": 3666
               }
             }
           ]
@@ -2384,12 +2384,12 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499653
+            "stars": 499702
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "title": "awesome-selfhosted/awesome-selfhosted",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2399,7 +2399,7 @@
             "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314826
+            "stars": 314868
           }
         },
         {
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:54:08.903Z",
+    "last_updated": "2026-08-25T06:13:30.650Z",
     "original_repository": "joamatab/awesome_photonics",
     "original_repository_id": 208153462,
     "original_repository_sha": "da67a068c45599eadd3624bfb8501c87cd0828d9",
