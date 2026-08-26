@@ -148,7 +148,7 @@
             "archived": false,
             "id": 81722454,
             "language": "C++",
-            "last_commit": "2026-08-24T17:14:41Z",
+            "last_commit": "2026-08-25T21:00:58Z",
             "owner": "KLayout",
             "repo": "klayout",
             "stars": 1182
@@ -194,10 +194,10 @@
             "archived": false,
             "id": 250169028,
             "language": "Python",
-            "last_commit": "2026-08-24T23:22:35Z",
+            "last_commit": "2026-08-25T23:56:01Z",
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1018
+            "stars": 1022
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-24T23:06:04Z",
             "owner": "heitzmann",
             "repo": "gdstk",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -452,10 +452,10 @@
                     "archived": false,
                     "id": 16771087,
                     "language": "Fortran",
-                    "last_commit": "2026-08-24T10:48:49Z",
+                    "last_commit": "2026-08-25T19:48:44Z",
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
-                    "stars": 1674
+                    "stars": 1675
                   }
                 },
                 {
@@ -522,7 +522,7 @@
                     "last_commit": "2026-08-24T02:36:18Z",
                     "owner": "lbolla",
                     "repo": "EMpy",
-                    "stars": 228
+                    "stars": 229
                   }
                 },
                 {
@@ -778,7 +778,7 @@
                     "last_commit": "2026-08-25T03:42:22Z",
                     "owner": "NanoComp",
                     "repo": "meep",
-                    "stars": 1747
+                    "stars": 1749
                   }
                 },
                 {
@@ -823,7 +823,7 @@
                     "last_commit": "2026-08-24T11:25:36Z",
                     "owner": "ymahlau",
                     "repo": "fdtdx",
-                    "stars": 337
+                    "stars": 339
                   }
                 },
                 {
@@ -1002,7 +1002,7 @@
                     "last_commit": "2022-10-03T21:36:48Z",
                     "owner": "BYUCamachoLab",
                     "repo": "emepy",
-                    "stars": 50
+                    "stars": 51
                   }
                 }
               ]
@@ -1091,7 +1091,7 @@
                     "last_commit": "2020-02-08T05:12:15Z",
                     "owner": "fancompute",
                     "repo": "wavetorch",
-                    "stars": 540
+                    "stars": 539
                   }
                 },
                 {
@@ -1230,7 +1230,7 @@
                     "archived": false,
                     "id": 100426697,
                     "language": "Python",
-                    "last_commit": "2026-08-20T10:26:13Z",
+                    "last_commit": "2026-08-25T09:01:14Z",
                     "owner": "optiland",
                     "repo": "optiland",
                     "stars": 922
@@ -1388,7 +1388,7 @@
                 "archived": false,
                 "id": 24369605,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:55:32Z",
+                "last_commit": "2026-08-25T15:26:26Z",
                 "owner": "chipmuenk",
                 "repo": "pyfda",
                 "stars": 730
@@ -1408,7 +1408,7 @@
                     "archived": false,
                     "id": 49224614,
                     "language": "Python",
-                    "last_commit": "2026-08-24T16:42:46Z",
+                    "last_commit": "2026-08-25T20:36:06Z",
                     "owner": "Nubis-Communications",
                     "repo": "SignalIntegrity",
                     "stars": 212
@@ -1456,7 +1456,7 @@
                     "last_commit": "2022-06-16T19:38:09Z",
                     "owner": "flaport",
                     "repo": "photontorch",
-                    "stars": 93
+                    "stars": 94
                   }
                 },
                 {
@@ -1508,7 +1508,7 @@
                     "last_commit": "2026-08-13T14:09:11Z",
                     "owner": "edsonportosilva",
                     "repo": "OptiCommPy",
-                    "stars": 207
+                    "stars": 209
                   }
                 },
                 {
@@ -1523,7 +1523,7 @@
                     "last_commit": "2026-04-28T11:48:15Z",
                     "owner": "ChalmersPhotonicsLab",
                     "repo": "QAMpy",
-                    "stars": 87
+                    "stars": 88
                   }
                 }
               ]
@@ -1621,7 +1621,7 @@
                 "last_commit": "2023-10-17T17:41:03Z",
                 "owner": "pyNLO",
                 "repo": "PyNLO",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -1936,7 +1936,7 @@
                 "archived": false,
                 "id": 18864038,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:31:31Z",
+                "last_commit": "2026-08-25T08:15:03Z",
                 "owner": "pymeasure",
                 "repo": "pymeasure",
                 "stars": 770
@@ -1951,10 +1951,10 @@
                 "archived": false,
                 "id": 41519483,
                 "language": "Python",
-                "last_commit": "2026-08-13T00:29:47Z",
+                "last_commit": "2026-08-25T18:32:39Z",
                 "owner": "google",
                 "repo": "openhtf",
-                "stars": 717
+                "stars": 718
               }
             },
             {
@@ -2204,10 +2204,10 @@
                 "archived": false,
                 "id": 204086862,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:43:52Z",
+                "last_commit": "2026-08-26T00:59:53Z",
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45605
+                "stars": 45611
               }
             },
             {
@@ -2265,7 +2265,7 @@
                 "last_commit": "2026-08-13T11:39:06Z",
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2721
+                "stars": 2723
               }
             },
             {
@@ -2280,7 +2280,7 @@
                 "last_commit": "2026-08-20T13:25:06Z",
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1631
+                "stars": 1634
               }
             }
           ]
@@ -2302,7 +2302,7 @@
                 "last_commit": "2026-07-18T08:53:32Z",
                 "owner": "limbo018",
                 "repo": "DREAMPlace",
-                "stars": 1042
+                "stars": 1043
               }
             },
             {
@@ -2384,7 +2384,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499702
+            "stars": 499954
           }
         },
         {
@@ -2399,7 +2399,7 @@
             "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314868
+            "stars": 315098
           }
         },
         {
@@ -2414,7 +2414,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8062
+            "stars": 8065
           }
         },
         {
@@ -2429,7 +2429,7 @@
             "last_commit": "2026-08-24T08:24:44Z",
             "owner": "qosf",
             "repo": "awesome-quantum-software",
-            "stars": 2382
+            "stars": 2383
           }
         },
         {
@@ -2444,7 +2444,7 @@
             "last_commit": "2026-07-20T10:32:58Z",
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
-            "stars": 1582
+            "stars": 1583
           }
         },
         {
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:30.650Z",
+    "last_updated": "2026-08-26T02:59:48.837Z",
     "original_repository": "joamatab/awesome_photonics",
     "original_repository_id": 208153462,
     "original_repository_sha": "da67a068c45599eadd3624bfb8501c87cd0828d9",
