@@ -289,7 +289,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 ## other links
 
-* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,371 | 🐛 105 | 📅 2026-08-21
+* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,372 | 🐛 105 | 📅 2026-08-21
 * <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 315,515 | 🐛 0 | 📅 2026-08-22
 * [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,068 | 🐛 32 | 📅 2026-01-05
 * [Awesome quantum](https://github.com/qosf/awesome-quantum-software) ⭐ 2,383 | 🐛 6 | 📅 2026-08-24
