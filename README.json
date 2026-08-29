@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package for KLayout to add integrated optics / silicon photonics functionality (waveguides, netlist extraction, circuit simulations, etc)",
+                "homepage": null,
                 "id": 113897603,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-10T02:03:28Z",
+                "open_issues": 82,
                 "owner": "SiEPIC",
                 "repo": "SiEPIC-Tools",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -31,12 +36,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KLayout Python library for integrated quantum circuit design.",
+                "homepage": null,
                 "id": 286423612,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-18T07:16:10Z",
+                "open_issues": 11,
                 "owner": "iqm-finland",
                 "repo": "KQCircuits",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "eda",
+                  "gds",
+                  "gds2",
+                  "gdsii",
+                  "klayout",
+                  "quantum",
+                  "quantum-computing",
+                  "qubits",
+                  "superconducting",
+                  "superconducting-qubits",
+                  "unitaryhack"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -47,12 +69,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gdsfactory with a klayout backend",
+                "homepage": "https://gdsfactory.github.io/kfactory/",
                 "id": 575172245,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:03:58Z",
+                "open_issues": 7,
                 "owner": "gdsfactory",
                 "repo": "kfactory",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -63,12 +90,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SiEPIC EBeam PDK & Library, for SiEPIC-Tools and KLayout",
+                "homepage": "http://www.siepic.ubc.ca",
                 "id": 362242304,
                 "language": "Logos",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-14T05:51:01Z",
+                "open_issues": 1,
                 "owner": "lukasc-ubc",
                 "repo": "SiEPIC_EBeam_PDK",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -79,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero PDK: python-based support for open source PDKs",
+                "homepage": null,
                 "id": 166588001,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-23T04:10:03Z",
+                "open_issues": 2,
                 "owner": "lightwave-lab",
                 "repo": "zeropdk",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -95,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python port of xsection script for KLayout",
+                "homepage": "https://gdsfactory.github.io/klayout_pyxs/",
                 "id": 512175445,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-01T09:23:16Z",
+                "open_issues": 8,
                 "owner": "gdsfactory",
                 "repo": "klayout_pyxs",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -111,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal KLayout wrappers and utility functions",
+                "homepage": "https://flaport.github.io/flayout",
                 "id": 557471421,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2022-10-25T23:48:54Z",
+                "open_issues": 3,
                 "owner": "flaport",
                 "repo": "flayout",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -127,12 +174,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netlist extraction into SPICE format for KLayout.",
+                "homepage": "https://codeberg.org/tok/spicex",
                 "id": 168185755,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-01-31T12:58:13Z",
+                "open_issues": 0,
                 "owner": "fsitok",
                 "repo": "spicex",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "klayout",
+                  "python",
+                  "spice"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -143,24 +199,39 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " KLayout macro for simplification (approximation) of polygons. ",
+                "homepage": "https://codeberg.org/tok/klayout-simplify",
                 "id": 250499169,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-20T20:28:28Z",
+                "open_issues": 1,
                 "owner": "fsitok",
                 "repo": "klayout-simplify",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "KLayout Main Sources",
+            "homepage": "http://www.klayout.org",
             "id": 81722454,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T17:09:27Z",
+            "open_issues": 217,
             "owner": "KLayout",
             "repo": "klayout",
-            "stars": 1182
+            "stars": 1182,
+            "topics": [
+              "eda",
+              "gds2",
+              "klayout",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -176,12 +247,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "skywater 130nm pdk",
+                "homepage": "https://gdsfactory.github.io/skywater130/",
                 "id": 485474441,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:43:50Z",
+                "open_issues": 32,
                 "owner": "gdsfactory",
                 "repo": "skywater130",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "digital",
+                  "electronic",
+                  "gdsfactory",
+                  "open-source",
+                  "pdk",
+                  "skywater"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -192,24 +275,53 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UBC Siepic Ebeam PDK from edx course",
+                "homepage": "https://gdsfactory.github.io/ubc/index.html",
                 "id": 262679864,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:41:46Z",
+                "open_issues": 18,
                 "owner": "gdsfactory",
                 "repo": "ubc",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "gdsfactory",
+                  "open-source",
+                  "pdk",
+                  "photonics",
+                  "siepic"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for designing chips (Photonics, Analog, Quantum, MEMS), PCBs, and 3D-printable objects. We aim to make hardware design accessible, intuitive, and fun—empowering everyone to build the future.",
+            "homepage": "https://gdsfactory.com",
             "id": 250169028,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:52:00Z",
+            "open_issues": 121,
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1022
+            "stars": 1022,
+            "topics": [
+              "3d-printing",
+              "cad",
+              "eda",
+              "gds",
+              "gdsfactory",
+              "gdsii",
+              "hardware",
+              "klayout",
+              "pcb-layout",
+              "photonics",
+              "python",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -225,24 +337,44 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for automated photonic circuit design.",
+                "homepage": null,
                 "id": 462990445,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-07-09T23:52:31Z",
+                "open_issues": 2,
                 "owner": "rohanku",
                 "repo": "pyphotonics",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.",
+            "homepage": "https://heitzmann.github.io/gdstk/",
             "id": 287123767,
             "language": "C++",
+            "license": "BSL-1.0",
             "last_commit": "2026-07-24T23:06:04Z",
+            "open_issues": 52,
             "owner": "heitzmann",
             "repo": "gdstk",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "cad",
+              "cpp",
+              "eda",
+              "gdsii",
+              "microfabrication",
+              "oasis",
+              "polygons",
+              "python",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -253,12 +385,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python framework for designing & analyzing superconducting quantum chips. Lite-by-default, headless-friendly, EDA-grade.",
+            "homepage": "https://qiskit-community.github.io/qiskit-metal/",
             "id": 312331045,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T05:32:07Z",
+            "open_issues": 29,
             "owner": "qiskit-community",
             "repo": "qiskit-metal",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "device",
+              "eda",
+              "electronic-design-automation",
+              "gds",
+              "gmsh",
+              "hamiltonian",
+              "hfss",
+              "python",
+              "quantum",
+              "quantum-chip-design",
+              "quantum-computing",
+              "quantum-hardware",
+              "qubits",
+              "simulation-modeling",
+              "superconducting",
+              "superconducting-qubits",
+              "transmon"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -279,24 +434,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Process design kit for NIST superconducting optoelectronic technologies",
+                    "homepage": null,
                     "id": 162328774,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-07-24T19:44:19Z",
+                    "open_issues": 1,
                     "owner": "usnistgov",
                     "repo": "SOEN-PDK",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Python GDS layout and CAD geometry creation",
+                "homepage": null,
                 "id": 65043733,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-08T14:03:06Z",
+                "open_issues": 4,
                 "owner": "amccaugh",
                 "repo": "phidl",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "boolean",
+                  "cad",
+                  "gds",
+                  "gdsii",
+                  "geometry",
+                  "layout",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -307,12 +480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library of easy-to-implement photonic-integrated-circuit (PIC) components for quick GDSII mask layout and design.",
+                "homepage": null,
                 "id": 120139303,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-05T03:20:09Z",
+                "open_issues": 9,
                 "owner": "DerekK44",
                 "repo": "PICwriter",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -323,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Berkeley Photonics Generator (BPG) is a Python framework that enables the generation and simulation of photonics layout",
+                "homepage": null,
                 "id": 137926394,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-09T01:37:43Z",
+                "open_issues": 31,
                 "owner": "BerkeleyPhotonicsGenerator",
                 "repo": "BPG",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -339,24 +522,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arbitrary Cell Generator enables parametrized grid-free circuit layout creation",
+                "homepage": "https://acg.readthedocs.io",
                 "id": 158317908,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-06-01T20:37:45Z",
+                "open_issues": 2,
                 "owner": "AyarLabs",
                 "repo": "ACG",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "acg",
+                  "analog",
+                  "bag",
+                  "circuits",
+                  "layout"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
           ],
           "repo_info": {
             "archived": true,
+            "description": "Python  module for creating GDSII stream files, usually CAD layouts.",
+            "homepage": null,
             "id": 38114354,
             "language": "Python",
+            "license": "BSL-1.0",
             "last_commit": "2024-04-11T15:17:23Z",
+            "open_issues": 15,
             "owner": "heitzmann",
             "repo": "gdspy",
-            "stars": 385
+            "stars": 385,
+            "topics": [
+              "cad",
+              "gdsii",
+              "microfabrication",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -372,12 +576,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GDSHelpers is an open-source package for automatized pattern generation for nano-structuring.",
+                "homepage": "https://www.uni-muenster.de/Physik.PI/Pernice/",
                 "id": 193088199,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-05-25T10:22:24Z",
+                "open_issues": 9,
                 "owner": "HelgeGehring",
                 "repo": "gdshelpers",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "electronics",
+                  "gdsii",
+                  "integrated-circuits",
+                  "lithography",
+                  "microfabrication",
+                  "nanofabrication",
+                  "oasis",
+                  "photonics",
+                  "python",
+                  "quantum-optics",
+                  "snspd",
+                  "superconductors",
+                  "waveguides"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -388,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 379402614,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-14T07:50:04Z",
+                "open_issues": 2,
                 "owner": "solgaardlab",
                 "repo": "dphox",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -411,12 +639,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GDS3D is an application that can interpret so called IC layouts and render them in 3D. The program accepts standard GDSII files as input data. Along with the layout file, it requires a so called process definition file which contains the 3D parameters of the process being used. These files combined allow the program to create a 3D representation of the layout, where the user has full, real time control over the camera position and angle, much like in a 3D video game. An other repo (https://github.com/skuep/GDS3D) as the same source and add few improvement like compression with server/client process. This release add two major feature with are assembly and export 3D model for GMSH.  Assembly: this mean it’s possible to merge multi GDS (with different technologies) I also try to improve net highlight. ",
+                "homepage": null,
                 "id": 80106634,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-20T08:13:41Z",
+                "open_issues": 17,
                 "owner": "trilomix",
                 "repo": "GDS3D",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "3d-models",
+                  "asic",
+                  "eda",
+                  "fem",
+                  "gdsii",
+                  "integrated-circuits",
+                  "mesh"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -427,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translates GDSII into HTML/JS that can be viewed in WebGL-capable web browsers.",
+                "homepage": null,
                 "id": 286150431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-23T08:32:12Z",
+                "open_issues": 5,
                 "owner": "s-holst",
                 "repo": "GDS2WebGL",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -443,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "KLayout Web Viewer",
+                "homepage": null,
                 "id": 592454092,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-06-05T10:42:44Z",
+                "open_issues": 4,
                 "owner": "gdsfactory",
                 "repo": "kweb",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -477,12 +728,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official git repository of Elmer FEM software",
+                    "homepage": "http://www.elmerfem.org",
                     "id": 16771087,
                     "language": "Fortran",
-                    "last_commit": "2026-08-28T13:04:52Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T14:26:24Z",
+                    "open_issues": 78,
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
-                    "stars": 1680
+                    "stars": 1682,
+                    "topics": [
+                      "acoustics",
+                      "electromagnetics",
+                      "elmergrid",
+                      "elmergui",
+                      "elmerice",
+                      "elmersolver",
+                      "fem",
+                      "finite-element-methods",
+                      "finite-elements",
+                      "fluid-mechanics",
+                      "glaciology",
+                      "mpi",
+                      "multiphysics",
+                      "parallel-computing",
+                      "structural-mechanics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -493,12 +765,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Differentiable Finite Element Method with JAX",
+                    "homepage": "https://deepmodeling.github.io/jax-fem/",
                     "id": 699410096,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-20T06:27:52Z",
+                    "open_issues": 27,
                     "owner": "deepmodeling",
                     "repo": "jax-fem",
-                    "stars": 741
+                    "stars": 743,
+                    "topics": [
+                      "differentiable-programming",
+                      "finite-element-methods",
+                      "jax",
+                      "topology-optimization"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -509,12 +791,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "  Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.",
+                    "homepage": "https://ngsolve.org/",
                     "id": 97575701,
                     "language": "C++",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-17T12:47:41Z",
+                    "open_issues": 23,
                     "owner": "NGSolve",
                     "repo": "ngsolve",
-                    "stars": 575
+                    "stars": 575,
+                    "topics": [
+                      "electromagnetics",
+                      "fem",
+                      "finite-elements",
+                      "fluid-dynamics",
+                      "parallel-computing",
+                      "solid-mechanics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -532,12 +826,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "fast, large scale photonic simulation platform",
+                    "homepage": "https://docs.flexcompute.com/projects/tidy3d/en/latest/",
                     "id": 392106790,
                     "language": "Python",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-07T07:32:11Z",
+                    "open_issues": 86,
                     "owner": "flexcompute",
                     "repo": "tidy3d",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": [
+                      "electromagnetics",
+                      "fdtd",
+                      "pydantic",
+                      "python",
+                      "simulation",
+                      "xarray"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -548,12 +854,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Electromagnetic Python",
+                    "homepage": "https://lbolla.github.io/EMpy/",
                     "id": 4781578,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T02:36:18Z",
+                    "open_issues": 3,
                     "owner": "lbolla",
                     "repo": "EMpy",
-                    "stars": 230
+                    "stars": 230,
+                    "topics": [
+                      "electromagnetism",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -564,12 +878,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A GPU-accelerated, differentiable, Maxwell FDTD solver",
+                    "homepage": null,
                     "id": 741695857,
                     "language": "Julia",
+                    "license": "MIT",
                     "last_commit": "2026-04-10T03:49:35Z",
+                    "open_issues": 5,
                     "owner": "facebookresearch",
                     "repo": "Khronos.jl",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -580,12 +899,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple python library for calculating the modes of electromagnetic waveguides using finite difference frequency domain method. ",
+                    "homepage": null,
                     "id": 106692025,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-17T10:01:59Z",
+                    "open_issues": 2,
                     "owner": "philmain28",
                     "repo": "philsol",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "eigensolver",
+                      "electromagnetism",
+                      "fdfd",
+                      "mode",
+                      "solver",
+                      "waveguide"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -596,12 +927,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pymwm is a metallic waveguide mode solver witten in Python",
+                    "homepage": null,
                     "id": 44782085,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-16T14:57:15Z",
+                    "open_issues": 0,
                     "owner": "mnishida",
                     "repo": "PyMWM",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -612,12 +948,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An electromagnetic waveguide mode solver with a python interface (based on WGMS3D).",
+                    "homepage": null,
                     "id": 157761154,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-29T14:23:12Z",
+                    "open_issues": 10,
                     "owner": "smartalecH",
                     "repo": "pyMode",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -637,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifical Neural Networks for use with Quantum Photonics",
+                "homepage": "https://sipann.rtfd.io",
                 "id": 167028577,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-05T18:19:50Z",
+                "open_issues": 9,
                 "owner": "BYUCamachoLab",
                 "repo": "SiPANN",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -658,12 +1004,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy access to OpenSource TCAD Tools",
+                    "homepage": null,
                     "id": 287321063,
                     "language": "Dockerfile",
+                    "license": null,
                     "last_commit": "2026-06-25T09:01:00Z",
+                    "open_issues": 2,
                     "owner": "thesourcerer8",
                     "repo": "OpenSourceTCAD",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -674,12 +1025,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Suprem4 Semiconductor Process Simulator of Stanford Univ.",
+                    "homepage": "http://www-tcad.stanford.edu/tcad/programs/oldftpable.html",
                     "id": 962615,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2014-10-09T05:02:30Z",
+                    "open_issues": 2,
                     "owner": "cogenda",
                     "repo": "Suprem4",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -690,12 +1046,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 420799398,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2022-07-29T03:00:39Z",
+                    "open_issues": 0,
                     "owner": "tcadsoftware",
                     "repo": "charon",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -706,24 +1067,39 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Port of PISCES TCAD Device Simulator to Linux",
+                    "homepage": null,
                     "id": 10371823,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-07-12T14:54:18Z",
+                    "open_issues": 0,
                     "owner": "ComputerWhisperer",
                     "repo": "pisces",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "fortran",
+                      "semiconductor-physics",
+                      "tcad",
+                      "tcad-device-simulator"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Easy access to OpenSource TCAD Tools",
+                "homepage": null,
                 "id": 287321063,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2026-06-25T09:01:00Z",
+                "open_issues": 2,
                 "owner": "thesourcerer8",
                 "repo": "OpenSourceTCAD",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -734,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator, HPCA'24",
+                "homepage": null,
                 "id": 734928190,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-05T21:14:28Z",
+                "open_issues": 0,
                 "owner": "zhuhanqing",
                 "repo": "Lightening-Transformer",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -750,12 +1131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Photonic Integrated Design Package",
+                "homepage": null,
                 "id": 448063643,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-02T13:09:20Z",
+                "open_issues": 1,
                 "owner": "Photonic-Architecture-Laboratories",
                 "repo": "si-photonics-toolkit",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -776,12 +1162,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Sample scripts to perform 2D grating coupler simulation using the open-source FDTD software MEEP",
+                        "homepage": null,
                         "id": 405102790,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-07-10T15:05:41Z",
+                        "open_issues": 0,
                         "owner": "simbilod",
                         "repo": "optio",
-                        "stars": 12
+                        "stars": 12,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:42:00.894Z"
                     },
@@ -792,12 +1183,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Integration between IPKISS (Luceda Photonics) and the Meep FDTD solver",
+                        "homepage": null,
                         "id": 192548419,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2019-06-20T10:29:03Z",
+                        "open_issues": 0,
                         "owner": "luceda",
                         "repo": "ipkiss_meep_integration",
-                        "stars": 11
+                        "stars": 11,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:42:00.894Z"
                     },
@@ -808,24 +1204,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 407022972,
                         "language": null,
+                        "license": null,
                         "last_commit": "2021-09-19T20:18:12Z",
+                        "open_issues": 0,
                         "owner": "mochen4",
                         "repo": "meepdocker",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:42:00.894Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "free finite-difference time-domain (FDTD) software for electromagnetic simulations",
+                    "homepage": null,
                     "id": 18223131,
                     "language": "C++",
-                    "last_commit": "2026-08-27T23:41:05Z",
+                    "license": "GPL-2.0",
+                    "last_commit": "2026-08-28T20:15:58Z",
+                    "open_issues": 382,
                     "owner": "NanoComp",
                     "repo": "meep",
-                    "stars": 1755
+                    "stars": 1755,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -836,12 +1242,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 3D electromagnetic FDTD simulator written in Python with optional GPU support",
+                    "homepage": "https://fdtd.readthedocs.io",
                     "id": 151546733,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-22T10:04:12Z",
+                    "open_issues": 28,
                     "owner": "flaport",
                     "repo": "fdtd",
-                    "stars": 715
+                    "stars": 715,
+                    "topics": [
+                      "3d-fdtd",
+                      "electric-fields",
+                      "fdtd",
+                      "fdtd-simulator",
+                      "magnetic-fields",
+                      "numpy",
+                      "optics",
+                      "photonics",
+                      "physics",
+                      "physics-simulation",
+                      "python",
+                      "pytorch",
+                      "simulation",
+                      "simulation-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -852,12 +1278,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "fast, large scale photonic simulation platform",
+                    "homepage": "https://docs.flexcompute.com/projects/tidy3d/en/latest/",
                     "id": 392106790,
                     "language": "Python",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-07T07:32:11Z",
+                    "open_issues": 86,
                     "owner": "flexcompute",
                     "repo": "tidy3d",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": [
+                      "electromagnetics",
+                      "fdtd",
+                      "pydantic",
+                      "python",
+                      "simulation",
+                      "xarray"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -868,12 +1306,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Electromagnetic FDTD Simulations in JAX",
+                    "homepage": "https://fdtdx.readthedocs.io/en/latest/",
                     "id": 894340568,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T11:25:36Z",
+                    "open_issues": 47,
                     "owner": "ymahlau",
                     "repo": "fdtdx",
-                    "stars": 341
+                    "stars": 341,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -884,12 +1327,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast, scalable, accessible photonic simulation",
+                    "homepage": null,
                     "id": 553085518,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-02-08T00:57:37Z",
+                    "open_issues": 6,
                     "owner": "spinsphotonics",
                     "repo": "fdtdz",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -900,12 +1348,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A suite of tools for optimizing the shape and topology of electromagnetic structures.",
+                    "homepage": null,
                     "id": 109447939,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-02-17T18:08:03Z",
+                    "open_issues": 9,
                     "owner": "anstmichaels",
                     "repo": "emopt",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -916,12 +1369,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://paulxshen.github.io/Luminescent.jl/",
                     "id": 725700931,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-05-08T00:25:15Z",
+                    "open_issues": 9,
                     "owner": "paulxshen",
                     "repo": "Luminescent.jl",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -932,12 +1390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A GPU-accelerated, differentiable, Maxwell FDTD solver",
+                    "homepage": null,
                     "id": 741695857,
                     "language": "Julia",
+                    "license": "MIT",
                     "last_commit": "2026-04-10T03:49:35Z",
+                    "open_issues": 5,
                     "owner": "facebookresearch",
                     "repo": "Khronos.jl",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -948,12 +1411,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ARTEMIS (Adaptive mesh Refinement Time-domain ElectrodynaMIcs Solver) couples the Maxwell's equations implementation in WarpX with classical equations that describe quantum material behavior (such as, LLG equation for micromagnetics and London equation for superconducting materials) for quantifying the performance of next-generation microelectronics.",
+                    "homepage": null,
                     "id": 350487172,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-18T15:50:13Z",
+                    "open_issues": 15,
                     "owner": "AMReX-Microelectronics",
                     "repo": "artemis",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "amrex",
+                      "electromagnetic",
+                      "llg",
+                      "magnetic",
+                      "superconducting"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -971,12 +1445,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":shrimp: Electromagnetic Simulation + Automatic Differentiation ",
+                    "homepage": "https://doi.org/10.1021/acsphotonics.9b01238",
                     "id": 188323485,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-06T21:35:53Z",
+                    "open_issues": 10,
                     "owner": "fancompute",
                     "repo": "ceviche",
-                    "stars": 423
+                    "stars": 423,
+                    "topics": [
+                      "adjoint",
+                      "electromagnetics",
+                      "fdfd",
+                      "fdtd",
+                      "inverse-problems",
+                      "optimization"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -987,12 +1473,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Photonic optimization library",
+                    "homepage": null,
                     "id": 177664445,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-04-13T05:37:55Z",
+                    "open_issues": 15,
                     "owner": "stanfordnqp",
                     "repo": "spins-b",
-                    "stars": 350
+                    "stars": 350,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1003,12 +1494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Jaxwell is JAX + Maxwell",
+                    "homepage": null,
                     "id": 314767936,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-09-27T04:08:14Z",
+                    "open_issues": 1,
                     "owner": "stanfordnqp",
                     "repo": "jaxwell",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1026,12 +1522,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python-based electromagnetic simulator and mode solver for nanophotonics applications, using the Eigenmode Expansion (EME) method.",
+                    "homepage": null,
                     "id": 70273311,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-03-21T11:05:17Z",
+                    "open_issues": 9,
                     "owner": "demisjohn",
                     "repo": "CAMFR",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "electromagnetic-fields",
+                      "laser",
+                      "laser-cavity",
+                      "light-emitting-diodes",
+                      "photonic-crystals",
+                      "photonics",
+                      "physics-simulation",
+                      "python",
+                      "python27",
+                      "simulation",
+                      "waveguide"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1042,12 +1555,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://gdsfactory.github.io/meow/",
                     "id": 563583432,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-16T21:51:44Z",
+                    "open_issues": 6,
                     "owner": "gdsfactory",
                     "repo": "meow",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "eigenmodes",
+                      "electromagnetism",
+                      "eme",
+                      "fde",
+                      "modeling",
+                      "overlap",
+                      "photonics",
+                      "waveguides"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1058,12 +1585,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://emepy.rtfd.io",
                     "id": 316049029,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-03T21:36:48Z",
+                    "open_issues": 22,
                     "owner": "BYUCamachoLab",
                     "repo": "emepy",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1081,12 +1613,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stanford Stratified Structure Solver - Electromagnetic simulator for layered periodic structures",
+                    "homepage": "http://www.stanford.edu/group/fan/S4/",
                     "id": 2930715,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-01-26T07:24:58Z",
+                    "open_issues": 80,
                     "owner": "victorliu",
                     "repo": "S4",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1097,12 +1634,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Fourier modal method with Jax",
+                    "homepage": null,
                     "id": 664899234,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-02-10T14:17:39Z",
+                    "open_issues": 38,
                     "owner": "facebookresearch",
                     "repo": "fmmax",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": [
+                      "fmm",
+                      "jax",
+                      "optics",
+                      "rcwa"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1113,12 +1660,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python implementation of rigorous coupled wave analysis, autograd supported for optimization purpose",
+                    "homepage": null,
                     "id": 261901838,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-13T01:32:28Z",
+                    "open_issues": 4,
                     "owner": "weiliangjinca",
                     "repo": "grcwa",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1129,12 +1681,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Efficient electromagnetic solver based on rigorous coupled-wave analysis for 3D and 2D multi-layered structures with in-plane periodicity, such as gratings, photonic-crystal slabs, metasurfaces, surface-emitting lasers, nano-antennas, and more.",
+                    "homepage": null,
                     "id": 426168437,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-11-02T06:34:06Z",
+                    "open_issues": 3,
                     "owner": "alexysong",
                     "repo": "inkstone",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "electromagnetics",
+                      "nanostructures",
+                      "photonics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1152,12 +1713,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " 🌊 Numerically solving and backpropagating through the wave equation",
+                    "homepage": "https://advances.sciencemag.org/content/5/12/eaay6946",
                     "id": 170393593,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-02-08T05:12:15Z",
+                    "open_issues": 3,
                     "owner": "fancompute",
                     "repo": "wavetorch",
-                    "stars": 539
+                    "stars": 539,
+                    "topics": [
+                      "differential-equations",
+                      "pytorch",
+                      "recurrent-neural-network",
+                      "rnn",
+                      "time-series",
+                      "vowel-recognition",
+                      "wave-equation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1168,12 +1742,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python based continuous adjoint optimization wrapper for Lumerical",
+                    "homepage": null,
                     "id": 127632266,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-20T00:35:04Z",
+                    "open_issues": 18,
                     "owner": "chriskeraly",
                     "repo": "lumopt",
-                    "stars": 210
+                    "stars": 210,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1184,12 +1763,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Frequency-domain photonic simulation and inverse design optimization for linear and nonlinear devices",
+                    "homepage": "https://arxiv.org/abs/1811.01255",
                     "id": 142919590,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-12-14T13:10:50Z",
+                    "open_issues": 11,
                     "owner": "fancompute",
                     "repo": "angler",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": [
+                      "adjoint",
+                      "adjoint-sensitivities",
+                      "electromagnetic",
+                      "fdfd",
+                      "frequency-domain",
+                      "inverse-problems",
+                      "mkl",
+                      "nonlinear-devices",
+                      "optics",
+                      "optimization",
+                      "photonics",
+                      "sensitivity-analysis",
+                      "simulation",
+                      "solver"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1200,12 +1799,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A suite of photonic inverse design challenge problems for topology optimization benchmarking",
+                    "homepage": "https://doi.org/10.1021/acsphotonics.2c00313",
                     "id": 475076627,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-20T18:04:58Z",
+                    "open_issues": 0,
                     "owner": "google",
                     "repo": "ceviche-challenges",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "adjoint",
+                      "electromagnetics",
+                      "fdfd",
+                      "optimization",
+                      "photonics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1216,12 +1826,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Global optimization based on generative neural networks",
+                    "homepage": null,
                     "id": 188227816,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-17T07:11:09Z",
+                    "open_issues": 1,
                     "owner": "jonfanlab",
                     "repo": "GLOnet",
-                    "stars": 125
+                    "stars": 125,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1232,12 +1847,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Silicon Photonics Design Tools.",
+                    "homepage": "https://splayout.readthedocs.io/en/latest/",
                     "id": 369764314,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-06T06:19:44Z",
+                    "open_issues": 0,
                     "owner": "Hideousmon",
                     "repo": "SPLayout",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "dbs",
+                      "gdsii",
+                      "gdspy",
+                      "inverse-design",
+                      "layout",
+                      "silicon-photonics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1248,12 +1875,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural Inverse Design of Nanostructures",
+                    "homepage": null,
                     "id": 392241225,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-10-31T13:39:15Z",
+                    "open_issues": 11,
                     "owner": "esa",
                     "repo": "NIDN",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1264,12 +1896,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural operator surrogates for electromagnetic inverse design",
+                    "homepage": null,
                     "id": 596314506,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-28T08:05:36Z",
+                    "open_issues": 1,
                     "owner": "tfp-photonics",
                     "repo": "neurop_invdes",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1287,12 +1924,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✨🔬 A flexible diffraction simulator for exploring and visualizing physical optics.",
+                    "homepage": "https://rafael-fuente.github.io/simulating-diffraction-patterns-with-the-angular-spectrum-method-and-python.html",
                     "id": 323979736,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-24T03:05:10Z",
+                    "open_issues": 21,
                     "owner": "rafael-fuente",
                     "repo": "diffractsim",
-                    "stars": 1065
+                    "stars": 1065,
+                    "topics": [
+                      "angular-spectrum-method",
+                      "diffraction",
+                      "diffraction-pattern",
+                      "diffraction-simulations",
+                      "holography",
+                      "optics",
+                      "physics",
+                      "physics-simulations",
+                      "python",
+                      "wave-optics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1303,12 +1956,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.",
+                    "homepage": "https://optiland.readthedocs.io/",
                     "id": 100426697,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T11:23:32Z",
+                    "open_issues": 31,
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 949
+                    "stars": 949,
+                    "topics": [
+                      "differentiable-programming",
+                      "geometrical-optics",
+                      "lens-design",
+                      "modeling",
+                      "multilayer-films",
+                      "optical-coatings",
+                      "optical-design",
+                      "optics",
+                      "optics-simulation",
+                      "optimization",
+                      "physics",
+                      "polarization",
+                      "python",
+                      "pytorch",
+                      "ray-tracing",
+                      "raytracing",
+                      "scattering",
+                      "scientific-computing",
+                      "simulation-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1319,12 +1997,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "geometric ray tracing for optical systems",
+                    "homepage": null,
                     "id": 109168474,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-26T06:53:29Z",
+                    "open_issues": 4,
                     "owner": "mjhoptics",
                     "repo": "ray-optics",
-                    "stars": 402
+                    "stars": 402,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1335,12 +2018,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple ray tracing library in Python for optical design that considers simple optical elements (with ABCD ray matrices) but also finite diameters of elements to calculate aperture and field stops, field of view, etc... Useful to validate the design of an optical system (lenses positions, power and diameters). Also permits the propagation of gaussian laser beams through the same elements.",
+                    "homepage": null,
                     "id": 166473288,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-08T16:06:55Z",
+                    "open_issues": 2,
                     "owner": "DCC-Lab",
                     "repo": "RayTracing",
-                    "stars": 344
+                    "stars": 344,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1351,12 +2039,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python optics and lens design, raytracing",
+                    "homepage": null,
                     "id": 23124734,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2023-08-15T20:17:45Z",
+                    "open_issues": 13,
                     "owner": "quartiq",
                     "repo": "rayopt",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1367,12 +2060,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Optical raytracing based on Python",
+                    "homepage": null,
                     "id": 20451854,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-06-26T12:49:18Z",
+                    "open_issues": 29,
                     "owner": "mess42",
                     "repo": "pyrate",
-                    "stars": 203
+                    "stars": 203,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1390,12 +2088,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Another inverse design library (wip)",
+                    "homepage": null,
                     "id": 286072279,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-07T23:19:44Z",
+                    "open_issues": 1,
                     "owner": "fancompute",
                     "repo": "simphox",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1413,12 +2116,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "transfer-matrix method for optics of thin and thick multilayer films",
+                    "homepage": null,
                     "id": 6433594,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-11-26T18:55:08Z",
+                    "open_issues": 1,
                     "owner": "sbyrnes321",
                     "repo": "tmm",
-                    "stars": 265
+                    "stars": 265,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1429,12 +2137,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast transfer matrix method written in jax for modelling optical multilayer thin films",
+                    "homepage": "https://tmmax.readthedocs.io/en/latest/",
                     "id": 854440500,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T11:48:27Z",
+                    "open_issues": 18,
                     "owner": "bahremsd",
                     "repo": "tmmax",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "coating",
+                      "jax",
+                      "jax-based-optical-tools",
+                      "jit",
+                      "optical-coating",
+                      "optical-coatings",
+                      "optical-simulation",
+                      "optics",
+                      "photonics",
+                      "thin-film",
+                      "thin-film-engineering",
+                      "tmm",
+                      "transfer-matrix-method",
+                      "vectorization",
+                      "xla"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1445,12 +2174,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source ellipsometry analysis tool for reproducible and comprehensible building of optical models.",
+                    "homepage": "https://pyelli.readthedocs.io",
                     "id": 337678730,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-03T08:52:32Z",
+                    "open_issues": 23,
                     "owner": "PyEllips",
                     "repo": "pyElli",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "berreman4x4",
+                      "ellipsometry",
+                      "fair-data",
+                      "nexusformat",
+                      "python",
+                      "simulation",
+                      "solver",
+                      "transfer-matrix-method"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1470,12 +2213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Filter Design Analysis Tool",
+                "homepage": "http://chipmuenk.github.io/",
                 "id": 24369605,
                 "language": "Python",
-                "last_commit": "2026-08-28T07:40:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:11:42Z",
+                "open_issues": 39,
                 "owner": "chipmuenk",
                 "repo": "pyfda",
-                "stars": 730
+                "stars": 730,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1491,12 +2239,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python tools for signal integrity applications",
+                    "homepage": "https://github.com/TeledyneLeCroy/SignalIntegrity/wiki",
                     "id": 49224614,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T02:08:50Z",
+                    "open_issues": 17,
                     "owner": "Nubis-Communications",
                     "repo": "SignalIntegrity",
-                    "stars": 212
+                    "stars": 212,
+                    "topics": [
+                      "calibration",
+                      "python",
+                      "s-parameters",
+                      "signal-integrity",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1507,12 +2266,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simulator for photonic integrated circuits.",
+                    "homepage": "https://simphonyphotonics.rtfd.io",
                     "id": 189314119,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-10T06:12:20Z",
+                    "open_issues": 16,
                     "owner": "BYUCamachoLab",
                     "repo": "simphony",
-                    "stars": 170
+                    "stars": 170,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1523,12 +2287,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.",
+                    "homepage": "https://gdsfactory.github.io/sax/",
                     "id": 298569964,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-19T15:12:04Z",
+                    "open_issues": 8,
                     "owner": "gdsfactory",
                     "repo": "sax",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": [
+                      "ann",
+                      "autograd",
+                      "circuit",
+                      "deep-learning",
+                      "jax",
+                      "optimization",
+                      "photonic-circuit",
+                      "photonic-optimization",
+                      "photonics",
+                      "physics-simulation",
+                      "s-parameters",
+                      "simulation",
+                      "simulation-framework",
+                      "simulations",
+                      "xla"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1539,12 +2324,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Highly parallel simulation and optimization of photonic circuits in time and frequency domain based on the deep-learning framework PyTorch",
+                    "homepage": "http://photontorch.com",
                     "id": 163304634,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2022-06-16T19:38:09Z",
+                    "open_issues": 4,
                     "owner": "flaport",
                     "repo": "photontorch",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "optimization",
+                      "photonic-circuit",
+                      "photonic-computing",
+                      "photonic-optimization",
+                      "photonics",
+                      "pytorch",
+                      "simulation",
+                      "simulation-framework",
+                      "simulator",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1555,12 +2356,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Photonic circuit simulator",
+                    "homepage": null,
                     "id": 285683246,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-02T06:35:34Z",
+                    "open_issues": 6,
                     "owner": "SiEPIC",
                     "repo": "opics",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "circuit",
+                      "circuit-solver",
+                      "photonics",
+                      "python",
+                      "python-package",
+                      "siepic",
+                      "siepic-photonics",
+                      "silicon",
+                      "silicon-photonics",
+                      "simulator",
+                      "solver",
+                      "ubc-photonics-group"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1571,12 +2390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scattering Matrix Linear Simulator for Photonic Circuits",
+                    "homepage": "https://lekkersim.readthedocs.io",
                     "id": 639958920,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-07-12T16:49:42Z",
+                    "open_issues": 0,
                     "owner": "mpasson",
                     "repo": "lekkersim",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1594,12 +2418,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simulate optical communications systems with Python.",
+                    "homepage": "https://opticommpy.readthedocs.io/en/latest/index.html",
                     "id": 425024631,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-13T14:09:11Z",
+                    "open_issues": 7,
                     "owner": "edsonportosilva",
                     "repo": "OptiCommPy",
-                    "stars": 209
+                    "stars": 209,
+                    "topics": [
+                      "adaptive-equalization",
+                      "bit-error-rate",
+                      "cupy",
+                      "digital-modulation",
+                      "digital-signal-processing",
+                      "eye-diagrams",
+                      "fiber-optic-communications",
+                      "jupyter-notebook",
+                      "ldpc",
+                      "modulation-techniques",
+                      "numba",
+                      "ofdm",
+                      "optical-communications",
+                      "photonics",
+                      "python",
+                      "split-step-fourier-method"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1610,12 +2456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QAMpy is a DSP chain for the simulation and equalisation of optical communications signals",
+                    "homepage": null,
                     "id": 124787512,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-28T11:48:15Z",
+                    "open_issues": 4,
                     "owner": "ChalmersPhotonicsLab",
                     "repo": "QAMpy",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1633,12 +2484,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generalized Radio-Frequency (RF) simulations for Microwave Photonic (MWP) analog photonic links (APLs). These simulations appear within Eric C. Blow's 2023 Princeton University PhD Thesis \"Microwave Photonic Cancellation: RF Analysis, III-V and Silicon Integration, Development of Balanced and Hybrid Architectures\"",
+                    "homepage": null,
                     "id": 657287563,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-07-02T20:54:15Z",
+                    "open_issues": 0,
                     "owner": "ericcblow",
                     "repo": "MicrowavePhotonicSimulations",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "microwave-photonics",
+                      "rf-photonics",
+                      "silicon-photonics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1656,12 +2516,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simulate electronic circuit using Python and the Ngspice / Xyce simulators",
+                    "homepage": "https://pyspice.fabrice-salvaire.fr",
                     "id": 17987999,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T22:44:34Z",
+                    "open_issues": 205,
                     "owner": "PySpice-org",
                     "repo": "PySpice",
-                    "stars": 861
+                    "stars": 861,
+                    "topics": [
+                      "circuit-simulation",
+                      "ngspice",
+                      "pyspice",
+                      "python",
+                      "python3",
+                      "spice",
+                      "spice-simulator",
+                      "xyce"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1672,12 +2546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lcapy is a Python package for symbolic linear circuit analysis and signal processing.  It uses SymPy for symbolic mathematics.",
+                    "homepage": null,
                     "id": 19219468,
                     "language": "Python",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-16T07:21:08Z",
+                    "open_issues": 39,
                     "owner": "mph-",
                     "repo": "lcapy",
-                    "stars": 301
+                    "stars": 301,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 },
@@ -1688,12 +2567,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An innovative Verilog-A compiler",
+                    "homepage": "https://openvaf.semimod.de/",
                     "id": 519493105,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-20T20:24:30Z",
+                    "open_issues": 69,
                     "owner": "pascalkuthe",
                     "repo": "OpenVAF",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": [
+                      "compiler",
+                      "eda",
+                      "rust",
+                      "verilog-a"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
                 }
@@ -1713,12 +2602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for nonlinear optics",
+                "homepage": "https://pynlo.readthedocs.io/en/latest/",
                 "id": 48703721,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-17T17:41:03Z",
+                "open_issues": 19,
                 "owner": "pyNLO",
                 "repo": "PyNLO",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1729,12 +2623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Python functions for simulating laser pulses, in particular, a solver for the generalized nonlinear Schrodinger equation (GNLSE)",
+                "homepage": null,
                 "id": 442193920,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-06T00:39:23Z",
+                "open_issues": 0,
                 "owner": "DanHickstein",
                 "repo": "laserfun",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -1752,12 +2651,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lugiato Lefever Equation Solver in Python/Julia",
+                "homepage": null,
                 "id": 143764754,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T18:41:36Z",
+                "open_issues": 2,
                 "owner": "gregmoille",
                 "repo": "pyLLE",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "combs",
+                  "frequency-comb",
+                  "frequency-combs",
+                  "julia",
+                  "lle",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1768,12 +2679,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for temporal evolution of initial conditions under the generalized Lugiato-Lefever equation",
+                "homepage": null,
                 "id": 246041810,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-22T08:35:14Z",
+                "open_issues": 0,
                 "owner": "omelchert",
                 "repo": "pyGLLE",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "computational-physics",
+                  "lugiato-lefever-equation",
+                  "partial-differential-equations",
+                  "pseudospectral-methods",
+                  "python",
+                  "scientific-software"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -1791,12 +2714,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python 3 + Pandas wrapper for the refractiveindex.info database by Mikhail Polyanskiy.",
+                "homepage": null,
                 "id": 80234648,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-28T02:45:07Z",
+                "open_issues": 1,
                 "owner": "mnishida",
                 "repo": "RII_Pandas",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "pandas",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -1814,12 +2745,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Optical lithography simulation software",
+                "homepage": null,
                 "id": 248696158,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-09T10:37:01Z",
+                "open_issues": 0,
                 "owner": "xthebat",
                 "repo": "optolithium",
-                "stars": 164
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1830,12 +2766,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github repository to share some insights about lithography simulation.",
+                "homepage": null,
                 "id": 279543855,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-10-26T06:54:27Z",
+                "open_issues": 1,
                 "owner": "pierremifasol",
                 "repo": "Lithography-Simulation",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "lithography",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1846,12 +2790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Include pixel-based mask synthesis, imaging model for optical lithography in Python",
+                "homepage": null,
                 "id": 57185111,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-10T08:10:49Z",
+                "open_issues": 4,
                 "owner": "vincentlv",
                 "repo": "DimmiLitho",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1862,12 +2811,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prediction of fabrication variations in integrated photonic devices using deep learning",
+                "homepage": null,
                 "id": 405195026,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-02T14:23:20Z",
+                "open_issues": 1,
                 "owner": "Dusandinho",
                 "repo": "PreFab",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "nanofabrication",
+                  "photonics",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -1885,12 +2845,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨🔬 A flexible diffraction simulator for exploring and visualizing physical optics.",
+                "homepage": "https://rafael-fuente.github.io/simulating-diffraction-patterns-with-the-angular-spectrum-method-and-python.html",
                 "id": 323979736,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-24T03:05:10Z",
+                "open_issues": 21,
                 "owner": "rafael-fuente",
                 "repo": "diffractsim",
-                "stars": 1065
+                "stars": 1065,
+                "topics": [
+                  "angular-spectrum-method",
+                  "diffraction",
+                  "diffraction-pattern",
+                  "diffraction-simulations",
+                  "holography",
+                  "optics",
+                  "physics",
+                  "physics-simulations",
+                  "python",
+                  "wave-optics"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1901,12 +2877,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "physical optics: integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing...",
+                "homepage": "https://prysm.readthedocs.io/en/stable/",
                 "id": 121337323,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-26T02:06:40Z",
+                "open_issues": 12,
                 "owner": "brandondube",
                 "repo": "prysm",
-                "stars": 351
+                "stars": 352,
+                "topics": [
+                  "4d",
+                  "diffraction",
+                  "forbes-polynomial",
+                  "gpu-computing",
+                  "modeling",
+                  "mtf",
+                  "mtf-mapper",
+                  "optics",
+                  "phase-retrieval",
+                  "phasecam",
+                  "propagation",
+                  "psf",
+                  "python",
+                  "q-polynomial",
+                  "raytracing",
+                  "trioptics",
+                  "wavefront",
+                  "wavefront-sensing",
+                  "zernike",
+                  "zygo"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1917,12 +2919,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LightPipes for Python, \"Pure Python version\"",
+                "homepage": "https://opticspy.github.io/lightpipes/",
                 "id": 80127706,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-26T21:37:13Z",
+                "open_issues": 52,
                 "owner": "opticspy",
                 "repo": "lightpipes",
-                "stars": 311
+                "stars": 311,
+                "topics": [
+                  "optics",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1933,12 +2943,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Physical Optics Propagation in Python",
+                "homepage": null,
                 "id": 4206587,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T13:45:22Z",
+                "open_issues": 31,
                 "owner": "mperrin",
                 "repo": "poppy",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "astronomy",
+                  "diffraction",
+                  "optics",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1949,12 +2969,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Differentiable wave optics simulation library built on PyTorch",
+                "homepage": "https://torchoptics.readthedocs.io",
                 "id": 895275182,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-13T16:10:18Z",
+                "open_issues": 1,
                 "owner": "MatthewFilipovich",
                 "repo": "torchoptics",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "computational-optics",
+                  "deep-learning",
+                  "differentiable-optics",
+                  "diffraction",
+                  "fourier-optics",
+                  "holography",
+                  "imaging",
+                  "inverse-design",
+                  "machine-learning",
+                  "microscopy",
+                  "mplc",
+                  "optical-neural-network",
+                  "optics",
+                  "physics",
+                  "pytorch",
+                  "wave-optics"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1965,12 +3007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for performing optical propagation simulations, meant for high contrast imaging, in Python.",
+                "homepage": "https://hcipy.org",
                 "id": 137013205,
                 "language": "Python",
-                "last_commit": "2026-08-28T11:31:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T19:47:41Z",
+                "open_issues": 39,
                 "owner": "ehpor",
                 "repo": "hcipy",
-                "stars": 144
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1981,12 +3028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poke (pronounced poh-keh) is a Polarization Ray Tracing and Gaussian Beamlet module for Python",
+                "homepage": null,
                 "id": 513353061,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-05T17:47:24Z",
+                "open_issues": 39,
                 "owner": "Jashcraf",
                 "repo": "poke",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -1997,12 +3049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 471454615,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-18T18:47:39Z",
+                "open_issues": 0,
                 "owner": "HelgeGehring",
                 "repo": "wavepropagation",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2026,12 +3083,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python serial port access library",
+                "homepage": "http://pyserial.readthedocs.io/en/latest/",
                 "id": 40094312,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T21:16:00Z",
+                "open_issues": 340,
                 "owner": "pyserial",
                 "repo": "pyserial",
-                "stars": 3565
+                "stars": 3565,
+                "topics": [
+                  "python",
+                  "serial"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2049,12 +3114,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scientific measurement library for instruments, experiments, and live-plotting",
+                "homepage": "http://pymeasure.readthedocs.io/en/latest/",
                 "id": 18864038,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:30:22Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:59:48Z",
+                "open_issues": 211,
                 "owner": "pymeasure",
                 "repo": "pymeasure",
-                "stars": 771
+                "stars": 771,
+                "topics": [
+                  "automation",
+                  "graph",
+                  "instrument",
+                  "measure",
+                  "plot",
+                  "python",
+                  "research",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2065,12 +3144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source hardware testing framework.",
+                "homepage": null,
                 "id": 41519483,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:28:20Z",
+                "open_issues": 140,
                 "owner": "google",
                 "repo": "openhtf",
-                "stars": 719
+                "stars": 719,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2081,12 +3165,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for device control and experiment automation",
+                "homepage": "http://pylablib.readthedocs.io",
                 "id": 367301387,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-02T20:36:18Z",
+                "open_issues": 87,
                 "owner": "AlexShkarin",
                 "repo": "pyLabLib",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "automation",
+                  "experiment",
+                  "instrument",
+                  "instrument-control",
+                  "laboratory"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2097,12 +3192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python-based instrumentation library from the Mabuchi Lab.",
+                "homepage": "http://instrumental-lib.readthedocs.org/",
                 "id": 13758213,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-01T01:19:01Z",
+                "open_issues": 60,
                 "owner": "mabuchilab",
                 "repo": "Instrumental",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2113,12 +3213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python interface for labrad",
+                "homepage": null,
                 "id": 11461524,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-02T21:22:45Z",
+                "open_issues": 79,
                 "owner": "labrad",
                 "repo": "pylabrad",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2129,12 +3234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laboratory Instrumentation and Automation",
+                "homepage": null,
                 "id": 131508614,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-13T18:18:20Z",
+                "open_issues": 9,
                 "owner": "lightwave-lab",
                 "repo": "lightlab",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2145,12 +3255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python code for Silicon Photonics Automated Probe stations",
+                "homepage": "http://siepic.ubc.ca/probestation",
                 "id": 46196792,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-08T01:34:23Z",
+                "open_issues": 2,
                 "owner": "SiEPIC",
                 "repo": "SiEPIClab",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2161,12 +3276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LabExT, short for Laboratory Experiment Tool, is a free software environment developed to facilitate performing laboratory experiments.",
+                "homepage": null,
                 "id": 411307680,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-31T15:35:46Z",
+                "open_issues": 14,
                 "owner": "LabExT",
                 "repo": "LabExT",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2177,12 +3297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository that contains a collection of instrument drivers that can be used with SweepMe! or pysweepme.",
+                "homepage": null,
                 "id": 657969211,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T10:12:13Z",
+                "open_issues": 10,
                 "owner": "SweepMe",
                 "repo": "instrument-drivers",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2193,12 +3318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Load SweepMe! instrument drivers in your own python projects.",
+                "homepage": "https://pypi.org/project/pysweepme/",
                 "id": 504673443,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T13:11:40Z",
+                "open_issues": 0,
                 "owner": "SweepMe",
                 "repo": "pysweepme",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2209,12 +3339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python libraries for communicating with optical test equipment, as well as a GUI front-end for automating photonics measurements on a custom wafer-scale optical test setup",
+                "homepage": null,
                 "id": 171399623,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-25T14:44:21Z",
+                "open_issues": 0,
                 "owner": "DerekK44",
                 "repo": "PIC_WaferProbeSystem",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2225,12 +3360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various codes used to interact remotely with the instruments in the laboratory written in Python.",
+                "homepage": null,
                 "id": 175233333,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-06-01T16:00:59Z",
+                "open_issues": 5,
                 "owner": "Simon-Belanger",
                 "repo": "ULPythonLab",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2241,12 +3381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "test automation framework",
+                "homepage": "https://gdsfactory.github.io/autosweep/",
                 "id": 687709412,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-07T20:12:43Z",
+                "open_issues": 5,
                 "owner": "gdsfactory",
                 "repo": "autosweep",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2257,12 +3402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for using remote lab instruments as local resources built on Pyro5",
+                "homepage": "https://pyrolab.rtfd.io/",
                 "id": 285637557,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-20T21:31:02Z",
+                "open_issues": 10,
                 "owner": "BYUCamachoLab",
                 "repo": "pyrolab",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2273,12 +3423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A software package for camera-assisted motion control of PIC chip interrogation platforms.",
+                "homepage": "https://autogator.rtfd.io/en/latest/",
                 "id": 204080550,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-04T16:41:05Z",
+                "open_issues": 4,
                 "owner": "BYUCamachoLab",
                 "repo": "autogator",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2297,12 +3452,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WaferMap Visualization",
+            "homepage": "https://wfmap.xlhaw.com",
             "id": 241114345,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-01T02:52:21Z",
+            "open_issues": 1,
             "owner": "xlhaw",
             "repo": "wfmap",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "data-visualization",
+              "pandas",
+              "wafer"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2313,12 +3477,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a kibana plugin to visualize the wafer map",
+            "homepage": null,
             "id": 153035759,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2019-08-29T06:41:53Z",
+            "open_issues": 0,
             "owner": "guanghaofan",
             "repo": "wafermap",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "kibana-plugin",
+              "kibana-visualization",
+              "wafer-map",
+              "wafer-mapping",
+              "wafermap"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2334,12 +3509,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streamlit — A faster way to build and share data apps.",
+                "homepage": "https://streamlit.io",
                 "id": 204086862,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:30:05Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:16:36Z",
+                "open_issues": 1182,
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45628
+                "stars": 45632,
+                "topics": [
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "deep-learning",
+                  "developer-tools",
+                  "machine-learning",
+                  "python",
+                  "streamlit"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2350,12 +3539,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voilà turns Jupyter notebooks into standalone web applications",
+                "homepage": "https://voila.readthedocs.io",
                 "id": 145574616,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T19:33:25Z",
+                "open_issues": 328,
                 "owner": "voila-dashboards",
                 "repo": "voila",
-                "stars": 5938
+                "stars": 5939,
+                "topics": [
+                  "dashboarding",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "jupyterlab-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2374,12 +3573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transmission line calculator",
+            "homepage": null,
             "id": 284351909,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-03-09T07:15:26Z",
+            "open_issues": 3,
             "owner": "dmcmahill",
             "repo": "wcalc",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2395,12 +3599,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ELK's layout algorithms for JavaScript",
+                "homepage": null,
                 "id": 96763449,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T11:39:06Z",
+                "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2734
+                "stars": 2735,
+                "topics": [
+                  "diagram-layout",
+                  "graph-layout",
+                  "layered-layout",
+                  "layout-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2411,12 +3625,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SKiDL is a library that lets you design electronic circuits using Python.",
+                "homepage": "https://devbisme.github.io/skidl/",
                 "id": 65847289,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T13:25:06Z",
+                "open_issues": 46,
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1638
+                "stars": 1638,
+                "topics": [
+                  "eda",
+                  "electronics",
+                  "kicad",
+                  "python",
+                  "schematics"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2434,12 +3659,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning toolkit-enabled VLSI placement",
+                "homepage": null,
                 "id": 173051915,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-18T08:53:32Z",
+                "open_issues": 92,
                 "owner": "limbo018",
                 "repo": "DREAMPlace",
-                "stars": 1045
+                "stars": 1045,
+                "topics": [
+                  "deep-learning",
+                  "gpu-acceleration",
+                  "pytorch",
+                  "vlsi",
+                  "vlsi-physical-design",
+                  "vlsi-placement"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             },
@@ -2450,12 +3687,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-version python API for KiCAD pcbnew v5-v9. Use it to make action plugins, GUI scripting, and anything headless",
+                "homepage": null,
                 "id": 336733180,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-13T14:31:33Z",
+                "open_issues": 4,
                 "owner": "atait",
                 "repo": "kicad-python",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "kicad",
+                  "kicad-5",
+                  "kicad-6",
+                  "kicad-7",
+                  "kicad-8",
+                  "kicad-pcb"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2473,12 +3722,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unfinished open book on circuit simulation in Python with PySpice and ngspice",
+                "homepage": null,
                 "id": 321857009,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-01-28T07:51:03Z",
+                "open_issues": 0,
                 "owner": "PyLCARS",
                 "repo": "Python-and-SPICE-Book",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "book",
+                  "circuit-simulation",
+                  "jupyter-book",
+                  "pyspice",
+                  "spice"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2496,12 +3756,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.",
+                "homepage": "https://skywater-pdk.rtfd.io",
                 "id": 261898494,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T22:02:44Z",
+                "open_issues": 199,
                 "owner": "google",
                 "repo": "skywater-pdk",
-                "stars": 3676
+                "stars": 3677,
+                "topics": [
+                  "asic",
+                  "asic-library",
+                  "eda",
+                  "magic",
+                  "openram",
+                  "openroad",
+                  "pdk",
+                  "skywater"
+                ]
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
             }
@@ -2520,12 +3794,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500733
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2536,12 +3821,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+            "homepage": "https://awesome-selfhosted.net/",
             "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-27T15:08:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T15:13:31Z",
+            "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315709
+            "stars": 315831,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cloud",
+              "free-software",
+              "hosting",
+              "privacy",
+              "self-hosted",
+              "selfhosted"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2552,12 +3851,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+            "homepage": null,
             "id": 64177015,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T18:43:02Z",
+            "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8070
+            "stars": 8071,
+            "topics": [
+              "altium",
+              "awesome",
+              "eagle",
+              "electronics",
+              "gerber",
+              "hardware",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2568,12 +3881,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of open-source quantum software projects.",
+            "homepage": null,
             "id": 131035472,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-24T08:24:44Z",
+            "open_issues": 6,
             "owner": "qosf",
             "repo": "awesome-quantum-software",
-            "stars": 2383
+            "stars": 2382,
+            "topics": [
+              "compilers",
+              "quantum-algorithms",
+              "quantum-annealing",
+              "quantum-assembly",
+              "quantum-chemistry",
+              "quantum-circuit-simulator",
+              "quantum-circuits",
+              "quantum-compiler",
+              "quantum-computer",
+              "quantum-computer-simulator",
+              "quantum-computing",
+              "quantum-machine-learning",
+              "quantum-mechanics",
+              "quantum-programming",
+              "quantum-programming-language",
+              "quantum-programs",
+              "quantum-simulation",
+              "quantum-simulators",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2584,12 +3922,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
+            "homepage": null,
             "id": 132509274,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-20T10:32:58Z",
+            "open_issues": 17,
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
-            "stars": 1583
+            "stars": 1584,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "engineering",
+              "mathematics",
+              "numerical-analysis",
+              "physics",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         },
@@ -2600,12 +3951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workshop on photonic device and circuit simulation using open-source tools. Created for Princeton's Spring 2020 ELE559 : Photonic Systems class.",
+            "homepage": null,
             "id": 244945599,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-16T15:58:02Z",
+            "open_issues": 0,
             "owner": "simbilod",
             "repo": "ELE559-simulations",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:42:00.894Z"
         }
@@ -2614,15 +3970,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:42:00.894Z",
+    "last_updated": "2026-08-29T04:39:21.722Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 curated list of open source photonics projects",
+      "homepage": null,
       "id": 208153462,
       "language": "Makefile",
+      "license": "CC0-1.0",
       "last_commit": "2026-01-05T03:45:06Z",
+      "open_issues": 7,
       "owner": "joamatab",
       "repo": "awesome_photonics",
-      "stars": 623
+      "stars": 623,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "photonics",
+        "python"
+      ]
     },
     "original_repository_sha": "da67a068c45599eadd3624bfb8501c87cd0828d9",
     "enhanced_repository": "enhansome/enhansome_photonics",
