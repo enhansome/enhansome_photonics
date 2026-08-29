@@ -774,7 +774,7 @@
                     "open_issues": 27,
                     "owner": "deepmodeling",
                     "repo": "jax-fem",
-                    "stars": 743,
+                    "stars": 745,
                     "topics": [
                       "differentiable-programming",
                       "finite-element-methods",
@@ -859,8 +859,8 @@
                     "id": 4781578,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-24T02:36:18Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-08-29T07:30:30Z",
+                    "open_issues": 0,
                     "owner": "lbolla",
                     "repo": "EMpy",
                     "stars": 230,
@@ -1965,7 +1965,7 @@
                     "open_issues": 31,
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 949,
+                    "stars": 950,
                     "topics": [
                       "differentiable-programming",
                       "geometrical-optics",
@@ -3514,7 +3514,7 @@
                 "id": 204086862,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:16:36Z",
+                "last_commit": "2026-08-29T08:28:18Z",
                 "open_issues": 1182,
                 "owner": "streamlit",
                 "repo": "streamlit",
@@ -3668,7 +3668,7 @@
                 "open_issues": 92,
                 "owner": "limbo018",
                 "repo": "DREAMPlace",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": [
                   "deep-learning",
                   "gpu-acceleration",
@@ -3803,7 +3803,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500891,
+            "stars": 500942,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3830,7 +3830,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315831,
+            "stars": 315859,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3860,7 +3860,7 @@
             "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8071,
+            "stars": 8074,
             "topics": [
               "altium",
               "awesome",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:21.722Z",
+    "last_updated": "2026-08-29T08:33:09.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 curated list of open source photonics projects",

@@ -76,14 +76,14 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
   * Finite Element
     * [elmer](https://github.com/elmercsc/elmerfem) ⭐ 1,682 | 🐛 78 | 🌐 Fortran | 📅 2026-08-28
-    * [jax-fem](https://github.com/deepmodeling/jax-fem) ⭐ 743 | 🐛 27 | 🌐 Python | 📅 2026-08-20
+    * [jax-fem](https://github.com/deepmodeling/jax-fem) ⭐ 745 | 🐛 27 | 🌐 Python | 📅 2026-08-20
     * [ngsolve](https://github.com/NGSolve/ngsolve) ⭐ 575 | 🐛 23 | 🌐 C++ | 📅 2026-08-17
     * [femwell](https://helgegehring.github.io/femwell/)
     * [palace](https://awslabs.github.io/palace/stable/)
 
   * Finite Difference
     * [tidy3d](https://github.com/flexcompute/tidy3d) ⭐ 360 | 🐛 86 | 🌐 Python | 📅 2026-08-07 Mode solver is open source
-    * [EMpy](https://github.com/lbolla/EMpy) ⭐ 230 | 🐛 3 | 🌐 Python | 📅 2026-08-24
+    * [EMpy](https://github.com/lbolla/EMpy) ⭐ 230 | 🐛 0 | 🌐 Python | 📅 2026-08-29
     * [khronos](https://github.com/facebookresearch/Khronos.jl) ⚠️ Archived
     * [philsol](https://github.com/philmain28/philsol) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2026-03-17 - Allows bends.
     * [pyMWM](https://github.com/mnishida/PyMWM) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-01-16
@@ -153,7 +153,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
     * A Neural Operator-based Surrogate Solver for Free-Form Electromagnetic Inverse Design \[[Paper](https://arxiv.org/pdf/2302.01934.pdf)] \[[Github](https://github.com/tfp-photonics/neurop_invdes) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2024-02-28]
   * ray tracing:
     * [scattering tools](https://github.com/rafael-fuente/diffractsim) ⭐ 1,065 | 🐛 21 | 🌐 Python | 📅 2026-07-24
-    * [optiland](https://github.com/HarrisonKramer/optiland) ⭐ 949 | 🐛 31 | 🌐 Python | 📅 2026-08-26 - Comprehensive optical design with GPU-accelerated ray tracing via PyTorch
+    * [optiland](https://github.com/HarrisonKramer/optiland) ⭐ 950 | 🐛 31 | 🌐 Python | 📅 2026-08-26 - Comprehensive optical design with GPU-accelerated ray tracing via PyTorch
     * [rayoptics](https://github.com/mjhoptics/ray-optics) ⭐ 402 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Optical design and analysis in Python
     * [ray tracing](https://github.com/DCC-Lab/RayTracing) ⭐ 344 | 🐛 2 | 🌐 Python | 📅 2026-07-08
     * [rayopt](https://github.com/quartiq/rayopt) ⭐ 310 | 🐛 13 | 🌐 Python | 📅 2023-08-15
@@ -263,7 +263,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 ## Visualization
 
 * [Klayout](https://www.klayout.de/) for GDS files
-* [Meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,804 | 🐛 194 | 🌐 C++ | 📅 2026-08-25 for STL
+* [Meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,806 | 🐛 194 | 🌐 C++ | 📅 2026-08-25 for STL
 * [ParaView](https://www.paraview.org/) for data visualization
 
 ## electronics
@@ -276,7 +276,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 * layout
 
-  * [VLSI placement](https://github.com/limbo018/DREAMPlace) ⭐ 1,045 | 🐛 92 | 🌐 C++ | 📅 2026-07-18
+  * [VLSI placement](https://github.com/limbo018/DREAMPlace) ⭐ 1,046 | 🐛 92 | 🌐 C++ | 📅 2026-07-18
   * [kicad PCB layout python](https://github.com/atait/kicad-python) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2026-05-13
 
 * circuit simulation
@@ -289,9 +289,9 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 ## other links
 
-* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
-* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 315,831 | 🐛 0 | 📅 2026-08-28
-* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,071 | 🐛 32 | 📅 2026-01-05
+* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,942 | 🐛 105 | 📅 2026-08-21
+* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 315,859 | 🐛 0 | 📅 2026-08-28
+* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,074 | 🐛 32 | 📅 2026-01-05
 * [Awesome quantum](https://github.com/qosf/awesome-quantum-software) ⭐ 2,382 | 🐛 6 | 📅 2026-08-24
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing) ⭐ 1,584 | 🐛 17 | 🌐 Python | 📅 2026-07-20
 * [princeton notebooks](https://github.com/simbilod/ELE559-simulations) ⭐ 43 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-09-16
