@@ -24,7 +24,7 @@
                 "open_issues": 82,
                 "owner": "SiEPIC",
                 "repo": "SiEPIC-Tools",
-                "stars": 267,
+                "stars": 268,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
@@ -74,8 +74,8 @@
                 "id": 575172245,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T15:03:58Z",
-                "open_issues": 7,
+                "last_commit": "2026-08-31T02:13:37Z",
+                "open_issues": 8,
                 "owner": "gdsfactory",
                 "repo": "kfactory",
                 "stars": 65,
@@ -303,11 +303,11 @@
             "id": 250169028,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T00:52:00Z",
-            "open_issues": 121,
+            "last_commit": "2026-08-30T16:33:55Z",
+            "open_issues": 122,
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "3d-printing",
               "cad",
@@ -733,11 +733,11 @@
                     "id": 16771087,
                     "language": "Fortran",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-30T07:10:47Z",
-                    "open_issues": 78,
+                    "last_commit": "2026-08-31T06:44:38Z",
+                    "open_issues": 85,
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
-                    "stars": 1683,
+                    "stars": 1685,
                     "topics": [
                       "acoustics",
                       "electromagnetics",
@@ -1230,7 +1230,7 @@
                     "open_issues": 385,
                     "owner": "NanoComp",
                     "repo": "meep",
-                    "stars": 1755,
+                    "stars": 1757,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1251,7 +1251,7 @@
                     "open_issues": 28,
                     "owner": "flaport",
                     "repo": "fdtd",
-                    "stars": 715,
+                    "stars": 716,
                     "topics": [
                       "3d-fdtd",
                       "electric-fields",
@@ -1315,7 +1315,7 @@
                     "open_issues": 47,
                     "owner": "ymahlau",
                     "repo": "fdtdx",
-                    "stars": 341,
+                    "stars": 342,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1454,7 +1454,7 @@
                     "open_issues": 10,
                     "owner": "fancompute",
                     "repo": "ceviche",
-                    "stars": 423,
+                    "stars": 424,
                     "topics": [
                       "adjoint",
                       "electromagnetics",
@@ -1482,7 +1482,7 @@
                     "open_issues": 15,
                     "owner": "stanfordnqp",
                     "repo": "spins-b",
-                    "stars": 350,
+                    "stars": 351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1622,7 +1622,7 @@
                     "open_issues": 80,
                     "owner": "victorliu",
                     "repo": "S4",
-                    "stars": 186,
+                    "stars": 187,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1962,10 +1962,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T11:23:32Z",
-                    "open_issues": 31,
+                    "open_issues": 32,
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 951,
+                    "stars": 952,
                     "topics": [
                       "differentiable-programming",
                       "geometrical-optics",
@@ -2244,7 +2244,7 @@
                     "id": 49224614,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-27T02:08:50Z",
+                    "last_commit": "2026-08-30T22:42:30Z",
                     "open_issues": 17,
                     "owner": "Nubis-Communications",
                     "repo": "SignalIntegrity",
@@ -3123,7 +3123,7 @@
                 "open_issues": 211,
                 "owner": "pymeasure",
                 "repo": "pymeasure",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "automation",
                   "graph",
@@ -3153,7 +3153,7 @@
                 "open_issues": 140,
                 "owner": "google",
                 "repo": "openhtf",
-                "stars": 719,
+                "stars": 718,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
@@ -3514,11 +3514,11 @@
                 "id": 204086862,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T04:36:05Z",
-                "open_issues": 1180,
+                "last_commit": "2026-08-31T07:51:31Z",
+                "open_issues": 1187,
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45641,
+                "stars": 45650,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -3548,7 +3548,7 @@
                 "open_issues": 328,
                 "owner": "voila-dashboards",
                 "repo": "voila",
-                "stars": 5939,
+                "stars": 5940,
                 "topics": [
                   "dashboarding",
                   "jupyter",
@@ -3608,7 +3608,7 @@
                 "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2737,
+                "stars": 2739,
                 "topics": [
                   "diagram-layout",
                   "graph-layout",
@@ -3634,7 +3634,7 @@
                 "open_issues": 46,
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1638,
+                "stars": 1639,
                 "topics": [
                   "eda",
                   "electronics",
@@ -3803,7 +3803,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501242,
+            "stars": 501549,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3826,11 +3826,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T06:05:55Z",
+            "last_commit": "2026-08-30T18:58:26Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 316053,
+            "stars": 316269,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3860,7 +3860,7 @@
             "open_issues": 34,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8077,
+            "stars": 8084,
             "topics": [
               "altium",
               "awesome",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:46:39.554Z",
+    "last_updated": "2026-08-31T08:01:09.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 curated list of open source photonics projects",
@@ -3982,7 +3982,7 @@
       "open_issues": 7,
       "owner": "joamatab",
       "repo": "awesome_photonics",
-      "stars": 623,
+      "stars": 624,
       "topics": [
         "awesome",
         "awesome-list",
