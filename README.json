@@ -24,7 +24,7 @@
                 "open_issues": 82,
                 "owner": "SiEPIC",
                 "repo": "SiEPIC-Tools",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
@@ -138,7 +138,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-16T05:21:34Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "gdsfactory",
                 "repo": "klayout_pyxs",
                 "stars": 19,
@@ -225,7 +225,7 @@
             "open_issues": 223,
             "owner": "KLayout",
             "repo": "klayout",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "eda",
               "gds2",
@@ -303,11 +303,11 @@
             "id": 250169028,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T08:52:54Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-23T05:36:26Z",
+            "open_issues": 64,
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1042,
+            "stars": 1045,
             "topics": [
               "3d-printing",
               "cad",
@@ -733,11 +733,11 @@
                     "id": 16771087,
                     "language": "Fortran",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-22T06:14:32Z",
-                    "open_issues": 82,
+                    "last_commit": "2026-09-22T13:56:45Z",
+                    "open_issues": 83,
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
-                    "stars": 1709,
+                    "stars": 1710,
                     "topics": [
                       "acoustics",
                       "electromagnetics",
@@ -796,11 +796,11 @@
                     "id": 97575701,
                     "language": "C++",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-09-21T16:51:32Z",
+                    "last_commit": "2026-09-22T16:25:17Z",
                     "open_issues": 22,
                     "owner": "NGSolve",
                     "repo": "ngsolve",
-                    "stars": 578,
+                    "stars": 579,
                     "topics": [
                       "electromagnetics",
                       "fem",
@@ -1227,7 +1227,7 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-16T20:10:50Z",
-                    "open_issues": 397,
+                    "open_issues": 398,
                     "owner": "NanoComp",
                     "repo": "meep",
                     "stars": 1774,
@@ -1311,8 +1311,8 @@
                     "id": 894340568,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T01:47:45Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-09-23T03:23:16Z",
+                    "open_issues": 48,
                     "owner": "ymahlau",
                     "repo": "fdtdx",
                     "stars": 356,
@@ -1561,7 +1561,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T13:42:39Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "gdsfactory",
                     "repo": "meow",
                     "stars": 55,
@@ -1669,7 +1669,7 @@
                     "open_issues": 4,
                     "owner": "weiliangjinca",
                     "repo": "grcwa",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1933,7 +1933,7 @@
                     "open_issues": 21,
                     "owner": "rafael-fuente",
                     "repo": "diffractsim",
-                    "stars": 1069,
+                    "stars": 1070,
                     "topics": [
                       "angular-spectrum-method",
                       "diffraction",
@@ -1962,10 +1962,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-17T10:00:15Z",
-                    "open_issues": 58,
+                    "open_issues": 62,
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 978,
+                    "stars": 979,
                     "topics": [
                       "differentiable-programming",
                       "geometrical-optics",
@@ -2002,7 +2002,7 @@
                     "id": 109168474,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-18T20:54:48Z",
+                    "last_commit": "2026-09-23T05:20:25Z",
                     "open_issues": 5,
                     "owner": "mjhoptics",
                     "repo": "ray-optics",
@@ -2027,7 +2027,7 @@
                     "open_issues": 2,
                     "owner": "DCC-Lab",
                     "repo": "RayTracing",
-                    "stars": 344,
+                    "stars": 346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -2218,7 +2218,7 @@
                 "id": 24369605,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T20:02:13Z",
+                "last_commit": "2026-09-22T11:57:35Z",
                 "open_issues": 39,
                 "owner": "chipmuenk",
                 "repo": "pyfda",
@@ -2244,7 +2244,7 @@
                     "id": 49224614,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-22T02:18:28Z",
+                    "last_commit": "2026-09-22T15:52:11Z",
                     "open_issues": 17,
                     "owner": "Nubis-Communications",
                     "repo": "SignalIntegrity",
@@ -2854,7 +2854,7 @@
                 "open_issues": 21,
                 "owner": "rafael-fuente",
                 "repo": "diffractsim",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "angular-spectrum-method",
                   "diffraction",
@@ -2978,7 +2978,7 @@
                 "open_issues": 1,
                 "owner": "MatthewFilipovich",
                 "repo": "torchoptics",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "computational-optics",
                   "deep-learning",
@@ -3089,10 +3089,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T21:16:00Z",
-                "open_issues": 341,
+                "open_issues": 342,
                 "owner": "pyserial",
                 "repo": "pyserial",
-                "stars": 3572,
+                "stars": 3573,
                 "topics": [
                   "python",
                   "serial"
@@ -3123,7 +3123,7 @@
                 "open_issues": 221,
                 "owner": "pymeasure",
                 "repo": "pymeasure",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "automation",
                   "graph",
@@ -3153,7 +3153,7 @@
                 "open_issues": 140,
                 "owner": "google",
                 "repo": "openhtf",
-                "stars": 723,
+                "stars": 724,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
@@ -3514,11 +3514,11 @@
                 "id": 204086862,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:52:27Z",
-                "open_issues": 1167,
+                "last_commit": "2026-09-23T06:58:22Z",
+                "open_issues": 1168,
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45814,
+                "stars": 45823,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -3608,7 +3608,7 @@
                 "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2774,
+                "stars": 2776,
                 "topics": [
                   "diagram-layout",
                   "graph-layout",
@@ -3634,7 +3634,7 @@
                 "open_issues": 46,
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "eda",
                   "electronics",
@@ -3765,7 +3765,7 @@
                 "open_issues": 200,
                 "owner": "google",
                 "repo": "skywater-pdk",
-                "stars": 3719,
+                "stars": 3725,
                 "topics": [
                   "asic",
                   "asic-library",
@@ -3803,7 +3803,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 508747,
+            "stars": 509128,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3830,7 +3830,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 320899,
+            "stars": 321143,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3860,7 +3860,7 @@
             "open_issues": 36,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8148,
+            "stars": 8152,
             "topics": [
               "altium",
               "awesome",
@@ -3890,7 +3890,7 @@
             "open_issues": 9,
             "owner": "qosf",
             "repo": "awesome-quantum-software",
-            "stars": 2397,
+            "stars": 2398,
             "topics": [
               "compilers",
               "quantum-algorithms",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:12:26.719Z",
+    "last_updated": "2026-09-23T07:12:50.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 curated list of open source photonics projects",
@@ -3982,7 +3982,7 @@
       "open_issues": 7,
       "owner": "joamatab",
       "repo": "awesome_photonics",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "awesome",
         "awesome-list",
