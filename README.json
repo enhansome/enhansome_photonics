@@ -65,7 +65,7 @@
             {
               "node_type": "item",
               "title": "kfactory",
-              "description": null,
+              "description": "gdsfactory/kfactory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -74,8 +74,8 @@
                 "id": 575172245,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:55:54Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-02T17:55:05Z",
+                "open_issues": 6,
                 "owner": "gdsfactory",
                 "repo": "kfactory",
                 "stars": 65,
@@ -86,7 +86,7 @@
             {
               "node_type": "item",
               "title": "siepic-ebeam-pdk",
-              "description": null,
+              "description": "lukasc-ubc/SiEPIC_EBeam_PDK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "flayout",
-              "description": null,
+              "description": "flaport/flayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "spicex: netlist extraction",
-              "description": null,
+              "description": "fsitok/spicex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "simplify polygons",
-              "description": null,
+              "description": "fsitok/klayout-simplify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,11 +221,11 @@
             "id": 81722454,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:57:41Z",
+            "last_commit": "2026-10-02T21:53:10Z",
             "open_issues": 241,
             "owner": "KLayout",
             "repo": "klayout",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "eda",
               "gds2",
@@ -252,11 +252,11 @@
                 "id": 485474441,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:14:48Z",
+                "last_commit": "2026-10-02T12:32:58Z",
                 "open_issues": 31,
                 "owner": "gdsfactory",
                 "repo": "skywater130",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "digital",
                   "electronic",
@@ -280,8 +280,8 @@
                 "id": 262679864,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:55:18Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-02T12:29:14Z",
+                "open_issues": 8,
                 "owner": "gdsfactory",
                 "repo": "ubc",
                 "stars": 36,
@@ -303,11 +303,11 @@
             "id": 250169028,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:09:09Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-02T13:25:28Z",
+            "open_issues": 68,
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "3d-printing",
               "cad",
@@ -333,7 +333,7 @@
             {
               "node_type": "item",
               "title": "pyphotonics",
-              "description": null,
+              "description": "rohanku/pyphotonics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
         {
           "node_type": "item",
           "title": "gdspy based tools",
-          "description": null,
+          "description": "heitzmann/gdspy",
           "children": [
             {
               "node_type": "item",
@@ -476,7 +476,7 @@
             {
               "node_type": "item",
               "title": "picwriter",
-              "description": null,
+              "description": "DerekK44/PICwriter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -497,7 +497,7 @@
             {
               "node_type": "item",
               "title": "BerkeleyPhotonicsGenerator",
-              "description": null,
+              "description": "BerkeleyPhotonicsGenerator/BPG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +518,7 @@
             {
               "node_type": "item",
               "title": "Ayar cell generator",
-              "description": null,
+              "description": "AyarLabs/ACG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -635,7 +635,7 @@
             {
               "node_type": "item",
               "title": "GDS3D",
-              "description": null,
+              "description": "trilomix/GDS3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "GDS2WebGL",
-              "description": null,
+              "description": "s-holst/GDS2WebGL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "kweb",
-              "description": null,
+              "description": "gdsfactory/kweb",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -724,7 +724,7 @@
                 {
                   "node_type": "item",
                   "title": "elmer",
-                  "description": null,
+                  "description": "ElmerCSC/elmerfem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -733,7 +733,7 @@
                     "id": 16771087,
                     "language": "Fortran",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T14:05:09Z",
+                    "last_commit": "2026-10-02T09:03:42Z",
                     "open_issues": 90,
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
@@ -761,7 +761,7 @@
                 {
                   "node_type": "item",
                   "title": "jax-fem",
-                  "description": null,
+                  "description": "deepmodeling/jax-fem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -787,7 +787,7 @@
                 {
                   "node_type": "item",
                   "title": "ngsolve",
-                  "description": null,
+                  "description": "NGSolve/ngsolve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -850,7 +850,7 @@
                 {
                   "node_type": "item",
                   "title": "EMpy",
-                  "description": null,
+                  "description": "lbolla/EMpy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -874,7 +874,7 @@
                 {
                   "node_type": "item",
                   "title": "khronos",
-                  "description": null,
+                  "description": "facebookresearch/Khronos.jl",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -923,7 +923,7 @@
                 {
                   "node_type": "item",
                   "title": "pyMWM",
-                  "description": null,
+                  "description": "mnishida/PyMWM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -974,7 +974,7 @@
             {
               "node_type": "item",
               "title": "SiPANN (neural networks for photonics component design)",
-              "description": null,
+              "description": "BYUCamachoLab/SiPANN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -995,7 +995,7 @@
             {
               "node_type": "item",
               "title": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator",
-              "description": null,
+              "description": "zhuhanqing/Lightening-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1021,7 +1021,7 @@
                 {
                   "node_type": "item",
                   "title": "TCAD docker containers",
-                  "description": null,
+                  "description": "thesourcerer8/OpenSourceTCAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1153,12 +1153,12 @@
                 {
                   "node_type": "item",
                   "title": "meep FDTD",
-                  "description": null,
+                  "description": "NanoComp/meep",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "meep ipkiss integration",
-                      "description": null,
+                      "description": "luceda/ipkiss_meep_integration",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1179,7 +1179,7 @@
                     {
                       "node_type": "item",
                       "title": "grating coupler example",
-                      "description": null,
+                      "description": "simbilod/optio",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1200,7 +1200,7 @@
                     {
                       "node_type": "item",
                       "title": "meep docker image",
-                      "description": "code",
+                      "description": "mochen4/meepdocker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1226,8 +1226,8 @@
                     "id": 18223131,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-02T04:23:47Z",
-                    "open_issues": 393,
+                    "last_commit": "2026-10-02T12:55:21Z",
+                    "open_issues": 391,
                     "owner": "NanoComp",
                     "repo": "meep",
                     "stars": 1781,
@@ -1302,7 +1302,7 @@
                 {
                   "node_type": "item",
                   "title": "fdtdx",
-                  "description": null,
+                  "description": "ymahlau/fdtdx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1323,7 +1323,7 @@
                 {
                   "node_type": "item",
                   "title": "fdtdz",
-                  "description": null,
+                  "description": "spinsphotonics/fdtdz",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1344,7 +1344,7 @@
                 {
                   "node_type": "item",
                   "title": "emopt FDTD",
-                  "description": null,
+                  "description": "anstmichaels/emopt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1365,7 +1365,7 @@
                 {
                   "node_type": "item",
                   "title": "Luminescent",
-                  "description": null,
+                  "description": "paulxshen/Luminescent.jl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1386,7 +1386,7 @@
                 {
                   "node_type": "item",
                   "title": "khronos",
-                  "description": null,
+                  "description": "facebookresearch/Khronos.jl",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1441,7 +1441,7 @@
                 {
                   "node_type": "item",
                   "title": "ceviche (2D only) FDTD and FDFD",
-                  "description": null,
+                  "description": "fancompute/ceviche",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1469,7 +1469,7 @@
                 {
                   "node_type": "item",
                   "title": "spins FDFD on GPU",
-                  "description": null,
+                  "description": "stanfordnqp/spins-b",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1490,7 +1490,7 @@
                 {
                   "node_type": "item",
                   "title": "jaxwell",
-                  "description": null,
+                  "description": "stanfordnqp/jaxwell",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1518,7 +1518,7 @@
                 {
                   "node_type": "item",
                   "title": "CAMFR",
-                  "description": null,
+                  "description": "demisjohn/CAMFR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1551,7 +1551,7 @@
                 {
                   "node_type": "item",
                   "title": "meow",
-                  "description": null,
+                  "description": "gdsfactory/meow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1581,7 +1581,7 @@
                 {
                   "node_type": "item",
                   "title": "emepy",
-                  "description": null,
+                  "description": "BYUCamachoLab/emepy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1609,7 +1609,7 @@
                 {
                   "node_type": "item",
                   "title": "S4",
-                  "description": null,
+                  "description": "victorliu/S4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1630,7 +1630,7 @@
                 {
                   "node_type": "item",
                   "title": "FMMAX",
-                  "description": null,
+                  "description": "facebookresearch/fmmax",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1677,7 +1677,7 @@
                 {
                   "node_type": "item",
                   "title": "inkstone",
-                  "description": null,
+                  "description": "alexysong/inkstone",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1709,7 +1709,7 @@
                 {
                   "node_type": "item",
                   "title": "wavetorch",
-                  "description": null,
+                  "description": "fancompute/wavetorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1738,7 +1738,7 @@
                 {
                   "node_type": "item",
                   "title": "lumopt",
-                  "description": null,
+                  "description": "chriskeraly/lumopt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1795,7 +1795,7 @@
                 {
                   "node_type": "item",
                   "title": "glonet: global optimization based on generative neural networks",
-                  "description": null,
+                  "description": "jonfanlab/GLOnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1843,7 +1843,7 @@
                 {
                   "node_type": "item",
                   "title": "SPLayout code",
-                  "description": "docs",
+                  "description": "Hideousmon/SPLayout",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1892,7 +1892,7 @@
                 {
                   "node_type": "item",
                   "title": "A Neural Operator-based Surrogate Solver for Free-Form Electromagnetic Inverse Design [Paper",
-                  "description": "] [Github]",
+                  "description": "tfp-photonics/neurop_invdes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1920,7 +1920,7 @@
                 {
                   "node_type": "item",
                   "title": "scattering tools",
-                  "description": null,
+                  "description": "rafael-fuente/diffractsim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1961,11 +1961,11 @@
                     "id": 100426697,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T20:46:30Z",
-                    "open_issues": 64,
+                    "last_commit": "2026-10-02T19:43:35Z",
+                    "open_issues": 65,
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 993,
+                    "stars": 995,
                     "topics": [
                       "differentiable-programming",
                       "geometrical-optics",
@@ -2006,7 +2006,7 @@
                     "open_issues": 4,
                     "owner": "mjhoptics",
                     "repo": "ray-optics",
-                    "stars": 407,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -2014,7 +2014,7 @@
                 {
                   "node_type": "item",
                   "title": "ray tracing",
-                  "description": null,
+                  "description": "DCC-Lab/RayTracing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2035,7 +2035,7 @@
                 {
                   "node_type": "item",
                   "title": "rayopt",
-                  "description": null,
+                  "description": "quartiq/rayopt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2084,7 +2084,7 @@
                 {
                   "node_type": "item",
                   "title": "simphox (FDTD, beamPropagation, circuit simulation)",
-                  "description": null,
+                  "description": "fancompute/simphox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2112,7 +2112,7 @@
                 {
                   "node_type": "item",
                   "title": "TMM",
-                  "description": null,
+                  "description": "sbyrnes321/tmm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2133,7 +2133,7 @@
                 {
                   "node_type": "item",
                   "title": "tmmax",
-                  "description": null,
+                  "description": "bahremsd/tmmax",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2235,7 +2235,7 @@
                 {
                   "node_type": "item",
                   "title": "SignalIntegrity (linear circuit simulation)",
-                  "description": null,
+                  "description": "Nubis-Communications/SignalIntegrity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2262,7 +2262,7 @@
                 {
                   "node_type": "item",
                   "title": "simphony (linear circuit solver)",
-                  "description": null,
+                  "description": "BYUCamachoLab/simphony",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2271,7 +2271,7 @@
                     "id": 189314119,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T17:13:42Z",
+                    "last_commit": "2026-10-03T04:39:51Z",
                     "open_issues": 17,
                     "owner": "BYUCamachoLab",
                     "repo": "simphony",
@@ -2293,7 +2293,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T18:44:17Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "gdsfactory",
                     "repo": "sax",
                     "stars": 131,
@@ -2352,7 +2352,7 @@
                 {
                   "node_type": "item",
                   "title": "opics",
-                  "description": null,
+                  "description": "SiEPIC/opics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2386,7 +2386,7 @@
                 {
                   "node_type": "item",
                   "title": "lekkersim",
-                  "description": null,
+                  "description": "mpasson/lekkersim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2414,7 +2414,7 @@
                 {
                   "node_type": "item",
                   "title": "optiCommPy",
-                  "description": null,
+                  "description": "edsonportosilva/OptiCommPy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2480,7 +2480,7 @@
                 {
                   "node_type": "item",
                   "title": "Princeton RF photonic notebooks",
-                  "description": null,
+                  "description": "ericcblow/MicrowavePhotonicSimulations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2512,7 +2512,7 @@
                 {
                   "node_type": "item",
                   "title": "pyspice",
-                  "description": null,
+                  "description": "PySpice-org/PySpice",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2576,7 +2576,7 @@
                     "open_issues": 69,
                     "owner": "pascalkuthe",
                     "repo": "OpenVAF",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": [
                       "compiler",
                       "eda",
@@ -2710,7 +2710,7 @@
             {
               "node_type": "item",
               "title": "rii pandas",
-              "description": null,
+              "description": "mnishida/RII_Pandas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2741,7 +2741,7 @@
             {
               "node_type": "item",
               "title": "optolithium",
-              "description": null,
+              "description": "xthebat/optolithium",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2762,7 +2762,7 @@
             {
               "node_type": "item",
               "title": "notebooks",
-              "description": null,
+              "description": "pierremifasol/Lithography-Simulation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2775,7 +2775,7 @@
                 "open_issues": 1,
                 "owner": "pierremifasol",
                 "repo": "Lithography-Simulation",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "lithography",
                   "simulation"
@@ -2786,7 +2786,7 @@
             {
               "node_type": "item",
               "title": "dimmilitho",
-              "description": null,
+              "description": "vincentlv/DimmiLitho",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2807,7 +2807,7 @@
             {
               "node_type": "item",
               "title": "keras based litho model",
-              "description": null,
+              "description": "Dusandinho/PreFab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2841,7 +2841,7 @@
             {
               "node_type": "item",
               "title": "diffractsim",
-              "description": null,
+              "description": "rafael-fuente/diffractsim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2915,7 +2915,7 @@
             {
               "node_type": "item",
               "title": "lightpipes",
-              "description": null,
+              "description": "opticspy/lightpipes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2965,7 +2965,7 @@
             {
               "node_type": "item",
               "title": "TorchOptics",
-              "description": null,
+              "description": "MatthewFilipovich/torchoptics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2978,7 +2978,7 @@
                 "open_issues": 1,
                 "owner": "MatthewFilipovich",
                 "repo": "torchoptics",
-                "stars": 168,
+                "stars": 170,
                 "topics": [
                   "computational-optics",
                   "deep-learning",
@@ -3012,8 +3012,8 @@
                 "id": 137013205,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:36:24Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-02T22:26:47Z",
+                "open_issues": 39,
                 "owner": "ehpor",
                 "repo": "hcipy",
                 "stars": 146,
@@ -3045,7 +3045,7 @@
             {
               "node_type": "item",
               "title": "waveprop",
-              "description": null,
+              "description": "HelgeGehring/wavepropagation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3089,10 +3089,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T21:16:00Z",
-                "open_issues": 347,
+                "open_issues": 348,
                 "owner": "pyserial",
                 "repo": "pyserial",
-                "stars": 3575,
+                "stars": 3576,
                 "topics": [
                   "python",
                   "serial"
@@ -3110,7 +3110,7 @@
             {
               "node_type": "item",
               "title": "pymeasure",
-              "description": null,
+              "description": "pymeasure/pymeasure",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3161,7 +3161,7 @@
             {
               "node_type": "item",
               "title": "AlexShkarin/pyLabLib",
-              "description": null,
+              "description": "AlexShkarin/pyLabLib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3188,7 +3188,7 @@
             {
               "node_type": "item",
               "title": "instrumental",
-              "description": null,
+              "description": "mabuchilab/Instrumental",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3209,7 +3209,7 @@
             {
               "node_type": "item",
               "title": "labrad",
-              "description": null,
+              "description": "labrad/pylabrad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3230,7 +3230,7 @@
             {
               "node_type": "item",
               "title": "lightlab",
-              "description": "docs",
+              "description": "lightwave-lab/lightlab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3251,7 +3251,7 @@
             {
               "node_type": "item",
               "title": "SiePIC lab",
-              "description": null,
+              "description": "SiEPIC/SiEPIClab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3272,7 +3272,7 @@
             {
               "node_type": "item",
               "title": "drivers",
-              "description": null,
+              "description": "SweepMe/instrument-drivers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3314,7 +3314,7 @@
             {
               "node_type": "item",
               "title": "measurement sequencer",
-              "description": null,
+              "description": "SweepMe/pysweepme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3323,7 +3323,7 @@
                 "id": 504673443,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T13:45:38Z",
+                "last_commit": "2026-10-02T13:22:27Z",
                 "open_issues": 0,
                 "owner": "SweepMe",
                 "repo": "pysweepme",
@@ -3335,7 +3335,7 @@
             {
               "node_type": "item",
               "title": "pic-wafer",
-              "description": null,
+              "description": "DerekK44/PIC_WaferProbeSystem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3356,7 +3356,7 @@
             {
               "node_type": "item",
               "title": "laval python lab",
-              "description": null,
+              "description": "Simon-Belanger/ULPythonLab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3377,7 +3377,7 @@
             {
               "node_type": "item",
               "title": "autosweep",
-              "description": "docs",
+              "description": "gdsfactory/autosweep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3398,7 +3398,7 @@
             {
               "node_type": "item",
               "title": "pyrolab",
-              "description": null,
+              "description": "BYUCamachoLab/pyrolab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3448,7 +3448,7 @@
         {
           "node_type": "item",
           "title": "wafermap",
-          "description": null,
+          "description": "xlhaw/wfmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3473,7 +3473,7 @@
         {
           "node_type": "item",
           "title": "wafer data",
-          "description": null,
+          "description": "guanghaofan/wafermap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3505,7 +3505,7 @@
             {
               "node_type": "item",
               "title": "streamlit",
-              "description": null,
+              "description": "streamlit/streamlit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3514,11 +3514,11 @@
                 "id": 204086862,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:33:11Z",
-                "open_issues": 1181,
+                "last_commit": "2026-10-03T05:12:44Z",
+                "open_issues": 1185,
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45872,
+                "stars": 45880,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -3535,7 +3535,7 @@
             {
               "node_type": "item",
               "title": "voila",
-              "description": null,
+              "description": "voila-dashboards/voila",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3569,7 +3569,7 @@
         {
           "node_type": "item",
           "title": "transmission line wcalc",
-          "description": null,
+          "description": "dmcmahill/wcalc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3608,7 +3608,7 @@
                 "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2794,
+                "stars": 2799,
                 "topics": [
                   "diagram-layout",
                   "graph-layout",
@@ -3621,7 +3621,7 @@
             {
               "node_type": "item",
               "title": "skidl: netlist formatting, writing, and reading",
-              "description": null,
+              "description": "devbisme/skidl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3634,7 +3634,7 @@
                 "open_issues": 46,
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1680,
+                "stars": 1681,
                 "topics": [
                   "eda",
                   "electronics",
@@ -3655,7 +3655,7 @@
             {
               "node_type": "item",
               "title": "VLSI placement",
-              "description": null,
+              "description": "limbo018/DREAMPlace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3683,7 +3683,7 @@
             {
               "node_type": "item",
               "title": "kicad PCB layout python",
-              "description": null,
+              "description": "atait/kicad-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3718,7 +3718,7 @@
             {
               "node_type": "item",
               "title": "Spice book",
-              "description": null,
+              "description": "PyLCARS/Python-and-SPICE-Book",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3752,7 +3752,7 @@
             {
               "node_type": "item",
               "title": "skywater-pdk",
-              "description": null,
+              "description": "google/skywater-pdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3790,7 +3790,7 @@
         {
           "node_type": "item",
           "title": "Awesome lists",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3803,7 +3803,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513396,
+            "stars": 513802,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3817,7 +3817,7 @@
         {
           "node_type": "item",
           "title": "awesome-selfhosted/awesome-selfhosted",
-          "description": null,
+          "description": "awesome-selfhosted/awesome-selfhosted",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3826,11 +3826,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T10:41:04Z",
+            "last_commit": "2026-10-02T16:22:23Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 323299,
+            "stars": 323485,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3847,7 +3847,7 @@
         {
           "node_type": "item",
           "title": "Awesome electronics",
-          "description": null,
+          "description": "kitspace/awesome-electronics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3857,10 +3857,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-14T08:57:12Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8177,
+            "stars": 8180,
             "topics": [
               "altium",
               "awesome",
@@ -3877,7 +3877,7 @@
         {
           "node_type": "item",
           "title": "Awesome quantum",
-          "description": null,
+          "description": "qosf/awesome-quantum-software",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3890,7 +3890,7 @@
             "open_issues": 7,
             "owner": "qosf",
             "repo": "awesome-quantum-software",
-            "stars": 2404,
+            "stars": 2403,
             "topics": [
               "compilers",
               "quantum-algorithms",
@@ -3918,7 +3918,7 @@
         {
           "node_type": "item",
           "title": "Awesome scientific computing",
-          "description": null,
+          "description": "nschloe/awesome-scientific-computing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3947,7 +3947,7 @@
         {
           "node_type": "item",
           "title": "princeton notebooks",
-          "description": null,
+          "description": "simbilod/ELE559-simulations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:51:45.983Z",
+    "last_updated": "2026-10-03T05:17:48.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 curated list of open source photonics projects",
