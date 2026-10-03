@@ -3518,7 +3518,7 @@
                 "open_issues": 1185,
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45880,
+                "stars": 45883,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -3608,7 +3608,7 @@
                 "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2799,
+                "stars": 2800,
                 "topics": [
                   "diagram-layout",
                   "graph-layout",
@@ -3803,7 +3803,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513802,
+            "stars": 513839,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3830,7 +3830,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 323485,
+            "stars": 323501,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3860,7 +3860,7 @@
             "open_issues": 40,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8180,
+            "stars": 8181,
             "topics": [
               "altium",
               "awesome",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:48.461Z",
+    "last_updated": "2026-10-03T07:29:17.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 curated list of open source photonics projects",

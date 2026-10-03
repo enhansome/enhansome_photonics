@@ -256,7 +256,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * pandas
 * dask
 * Webapp
-  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,880 | 🐛 1,185 | 🌐 Python | 📅 2026-10-03
+  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,883 | 🐛 1,185 | 🌐 Python | 📅 2026-10-03
   * [voila](https://github.com/voila-dashboards/voila) ⭐ 5,947 | 🐛 331 | 🌐 Python | 📅 2026-09-07
   * [plotly dash](https://dash.plotly.com/)
 
@@ -271,7 +271,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * transmission line [wcalc](https://github.com/dmcmahill/wcalc) ⭐ 16 | 🐛 3 | 🌐 C | 📅 2025-03-09
 
 * schematic capture:
-  * elkjs [code](https://github.com/kieler/elkjs) ⭐ 2,799 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-17 [demo](https://rtsys.informatik.uni-kiel.de/elklive/elkgraph.html) - Javascript schematic editor.
+  * elkjs [code](https://github.com/kieler/elkjs) ⭐ 2,800 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-17 [demo](https://rtsys.informatik.uni-kiel.de/elklive/elkgraph.html) - Javascript schematic editor.
   * [skidl: netlist formatting, writing, and reading](https://github.com/devbisme/skidl) ⭐ 1,681 | 🐛 46 | 🌐 Python | 📅 2026-09-24
 
 * layout
@@ -289,9 +289,9 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 ## other links
 
-* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
-* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 323,485 | 🐛 0 | 📅 2026-10-02
-* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,180 | 🐛 40 | 📅 2026-09-14
+* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 513,839 | 🐛 106 | 📅 2026-09-02
+* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 323,501 | 🐛 0 | 📅 2026-10-02
+* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,181 | 🐛 40 | 📅 2026-09-14
 * [Awesome quantum](https://github.com/qosf/awesome-quantum-software) ⭐ 2,403 | 🐛 7 | 📅 2026-09-24
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing) ⭐ 1,595 | 🐛 18 | 🌐 Python | 📅 2026-07-20
 * [princeton notebooks](https://github.com/simbilod/ELE559-simulations) ⭐ 43 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-09-16
