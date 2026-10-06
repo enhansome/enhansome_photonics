@@ -75,7 +75,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * mode solver:
 
   * Finite Element
-    * [elmer](https://github.com/elmercsc/elmerfem) ⭐ 1,720 | 🐛 91 | 🌐 Fortran | 📅 2026-10-05
+    * [elmer](https://github.com/elmercsc/elmerfem) ⭐ 1,720 | 🐛 91 | 🌐 Fortran | 📅 2026-10-06
     * [jax-fem](https://github.com/deepmodeling/jax-fem) ⭐ 767 | 🐛 30 | 🌐 Python | 📅 2026-09-20
     * [ngsolve](https://github.com/NGSolve/ngsolve) ⭐ 583 | 🐛 22 | 🌐 C++ | 📅 2026-10-06
     * [femwell](https://helgegehring.github.io/femwell/)
@@ -126,7 +126,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
     * [jaxwell](https://github.com/stanfordnqp/jaxwell) ⚠️ Archived
   * EME - Eigen mode expansion.
     * [CAMFR](https://github.com/demisjohn/CAMFR) ⭐ 79 | 🐛 9 | 🌐 C++ | 📅 2023-03-21
-    * [meow](https://github.com/flaport/meow) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2026-09-27
+    * [meow](https://github.com/flaport/meow) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2026-10-06
     * [emepy](https://github.com/BYUCamachoLab/emepy) ⭐ 52 | 🐛 22 | 🌐 Python | 📅 2022-10-03
   * FEM:
     * [gyptis](https://gyptis.gitlab.io) - based on FEniCS, automatic differentiation with dolfin-adjoint
@@ -169,7 +169,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 * circuit simulation:
 
-  * pyFDA filter design [code](https://github.com/chipmuenk/pyfda) ⭐ 735 | 🐛 40 | 🌐 Python | 📅 2026-10-06 and [docs](https://pyfda.readthedocs.io/en/latest/manual/input_specs.html)
+  * pyFDA filter design [code](https://github.com/chipmuenk/pyfda) ⭐ 735 | 🐛 39 | 🌐 Python | 📅 2026-10-06 and [docs](https://pyfda.readthedocs.io/en/latest/manual/input_specs.html)
   * Sparameter linear solvers
     * [SignalIntegrity (linear circuit simulation)](https://github.com/TeledyneLeCroy/SignalIntegrity) ⭐ 217 | 🐛 17 | 🌐 Python | 📅 2026-09-28
     * [simphony (linear circuit solver)](https://github.com/BYUCamachoLab/simphony) ⭐ 172 | 🐛 17 | 🌐 Python | 📅 2026-10-03
@@ -256,7 +256,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * pandas
 * dask
 * Webapp
-  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,904 | 🐛 1,189 | 🌐 Python | 📅 2026-10-06
+  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,906 | 🐛 1,191 | 🌐 Python | 📅 2026-10-06
   * [voila](https://github.com/voila-dashboards/voila) ⭐ 5,947 | 🐛 331 | 🌐 Python | 📅 2026-10-05
   * [plotly dash](https://dash.plotly.com/)
 
@@ -271,7 +271,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 * transmission line [wcalc](https://github.com/dmcmahill/wcalc) ⭐ 16 | 🐛 3 | 🌐 C | 📅 2025-03-09
 
 * schematic capture:
-  * elkjs [code](https://github.com/kieler/elkjs) ⭐ 2,801 | 🐛 99 | 🌐 JavaScript | 📅 2026-10-06 [demo](https://rtsys.informatik.uni-kiel.de/elklive/elkgraph.html) - Javascript schematic editor.
+  * elkjs [code](https://github.com/kieler/elkjs) ⭐ 2,801 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-06 [demo](https://rtsys.informatik.uni-kiel.de/elklive/elkgraph.html) - Javascript schematic editor.
   * [skidl: netlist formatting, writing, and reading](https://github.com/devbisme/skidl) ⭐ 1,683 | 🐛 46 | 🌐 Python | 📅 2026-09-24
 
 * layout
@@ -285,13 +285,13 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 * open source pdks
 
-  * [skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,737 | 🐛 201 | 🌐 Python | 📅 2026-07-21
+  * [skywater-pdk](https://github.com/google/skywater-pdk) ⭐ 3,738 | 🐛 201 | 🌐 Python | 📅 2026-07-21
 
 ## other links
 
-* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 515,319 | 🐛 106 | 📅 2026-09-02
-* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 324,216 | 🐛 0 | 📅 2026-10-04
-* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,189 | 🐛 41 | 📅 2026-09-14
+* [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02
+* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 324,264 | 🐛 0 | 📅 2026-10-04
+* [Awesome electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,191 | 🐛 41 | 📅 2026-09-14
 * [Awesome quantum](https://github.com/qosf/awesome-quantum-software) ⭐ 2,404 | 🐛 7 | 📅 2026-09-24
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing) ⭐ 1,596 | 🐛 18 | 🌐 Python | 📅 2026-07-20
 * [princeton notebooks](https://github.com/simbilod/ELE559-simulations) ⭐ 43 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-09-16
