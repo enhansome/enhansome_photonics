@@ -221,11 +221,11 @@
             "id": 81722454,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T23:33:45Z",
-            "open_issues": 241,
+            "last_commit": "2026-10-10T19:22:53Z",
+            "open_issues": 239,
             "owner": "KLayout",
             "repo": "klayout",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "eda",
               "gds2",
@@ -303,11 +303,11 @@
             "id": 250169028,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:30:11Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-11T07:26:41Z",
+            "open_issues": 65,
             "owner": "gdsfactory",
             "repo": "gdsfactory",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "3d-printing",
               "cad",
@@ -390,8 +390,8 @@
             "id": 312331045,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T22:36:39Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-11T06:28:31Z",
+            "open_issues": 18,
             "owner": "qiskit-community",
             "repo": "qiskit-metal",
             "stars": 426,
@@ -737,7 +737,7 @@
                     "open_issues": 90,
                     "owner": "ElmerCSC",
                     "repo": "elmerfem",
-                    "stars": 1729,
+                    "stars": 1731,
                     "topics": [
                       "acoustics",
                       "electromagnetics",
@@ -796,11 +796,11 @@
                     "id": 97575701,
                     "language": "C++",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-10-08T22:48:10Z",
+                    "last_commit": "2026-10-10T15:56:13Z",
                     "open_issues": 23,
                     "owner": "NGSolve",
                     "repo": "ngsolve",
-                    "stars": 588,
+                    "stars": 589,
                     "topics": [
                       "electromagnetics",
                       "fem",
@@ -994,27 +994,6 @@
             },
             {
               "node_type": "item",
-              "title": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator",
-              "description": "zhuhanqing/Lightening-Transformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator, HPCA'24",
-                "homepage": null,
-                "id": 734928190,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2025-02-05T21:14:28Z",
-                "open_issues": 0,
-                "owner": "zhuhanqing",
-                "repo": "Lightening-Transformer",
-                "stars": 47,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:42:00.894Z"
-            },
-            {
-              "node_type": "item",
               "title": "TCAD",
               "description": "tcad repos TCAD Overview spreadsheet here",
               "children": [
@@ -1034,7 +1013,7 @@
                     "open_issues": 2,
                     "owner": "thesourcerer8",
                     "repo": "OpenSourceTCAD",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1119,6 +1098,27 @@
                 "open_issues": 2,
                 "owner": "thesourcerer8",
                 "repo": "OpenSourceTCAD",
+                "stars": 48,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:42:00.894Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator",
+              "description": "zhuhanqing/Lightening-Transformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator, HPCA'24",
+                "homepage": null,
+                "id": 734928190,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2025-02-05T21:14:28Z",
+                "open_issues": 0,
+                "owner": "zhuhanqing",
+                "repo": "Lightening-Transformer",
                 "stars": 47,
                 "topics": []
               },
@@ -1227,7 +1227,7 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-09T20:55:20Z",
-                    "open_issues": 389,
+                    "open_issues": 390,
                     "owner": "NanoComp",
                     "repo": "meep",
                     "stars": 1802,
@@ -1622,7 +1622,7 @@
                     "open_issues": 80,
                     "owner": "victorliu",
                     "repo": "S4",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:42:00.894Z"
@@ -1933,7 +1933,7 @@
                     "open_issues": 21,
                     "owner": "rafael-fuente",
                     "repo": "diffractsim",
-                    "stars": 1074,
+                    "stars": 1075,
                     "topics": [
                       "angular-spectrum-method",
                       "diffraction",
@@ -1961,11 +1961,11 @@
                     "id": 100426697,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T09:59:55Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-10-10T15:40:47Z",
+                    "open_issues": 42,
                     "owner": "optiland",
                     "repo": "optiland",
-                    "stars": 1004,
+                    "stars": 1006,
                     "topics": [
                       "differentiable-programming",
                       "geometrical-optics",
@@ -2218,11 +2218,11 @@
                 "id": 24369605,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:22:20Z",
+                "last_commit": "2026-10-10T19:50:28Z",
                 "open_issues": 39,
                 "owner": "chipmuenk",
                 "repo": "pyfda",
-                "stars": 735,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
@@ -2244,7 +2244,7 @@
                     "id": 49224614,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T18:18:09Z",
+                    "last_commit": "2026-10-10T22:16:01Z",
                     "open_issues": 17,
                     "owner": "Nubis-Communications",
                     "repo": "SignalIntegrity",
@@ -2854,7 +2854,7 @@
                 "open_issues": 21,
                 "owner": "rafael-fuente",
                 "repo": "diffractsim",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": [
                   "angular-spectrum-method",
                   "diffraction",
@@ -2978,7 +2978,7 @@
                 "open_issues": 2,
                 "owner": "MatthewFilipovich",
                 "repo": "torchoptics",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "computational-optics",
                   "deep-learning",
@@ -3012,11 +3012,11 @@
                 "id": 137013205,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T21:10:44Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-10T18:26:00Z",
+                "open_issues": 38,
                 "owner": "ehpor",
                 "repo": "hcipy",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:42:00.894Z"
@@ -3092,7 +3092,7 @@
                 "open_issues": 348,
                 "owner": "pyserial",
                 "repo": "pyserial",
-                "stars": 3578,
+                "stars": 3579,
                 "topics": [
                   "python",
                   "serial"
@@ -3123,7 +3123,7 @@
                 "open_issues": 218,
                 "owner": "pymeasure",
                 "repo": "pymeasure",
-                "stars": 786,
+                "stars": 787,
                 "topics": [
                   "automation",
                   "graph",
@@ -3514,11 +3514,11 @@
                 "id": 204086862,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T05:33:34Z",
-                "open_issues": 1193,
+                "last_commit": "2026-10-11T07:46:57Z",
+                "open_issues": 1200,
                 "owner": "streamlit",
                 "repo": "streamlit",
-                "stars": 45930,
+                "stars": 45934,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -3634,7 +3634,7 @@
                 "open_issues": 46,
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": [
                   "eda",
                   "electronics",
@@ -3668,7 +3668,7 @@
                 "open_issues": 92,
                 "owner": "limbo018",
                 "repo": "DREAMPlace",
-                "stars": 1056,
+                "stars": 1057,
                 "topics": [
                   "deep-learning",
                   "gpu-acceleration",
@@ -3800,10 +3800,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516934,
+            "stars": 517376,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3826,11 +3826,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T20:26:11Z",
+            "last_commit": "2026-10-10T10:35:27Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 325079,
+            "stars": 325429,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3857,10 +3857,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-14T08:57:12Z",
-            "open_issues": 43,
+            "open_issues": 45,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8204,
+            "stars": 8208,
             "topics": [
               "altium",
               "awesome",
@@ -3887,10 +3887,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-24T09:57:39Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "qosf",
             "repo": "awesome-quantum-software",
-            "stars": 2410,
+            "stars": 2411,
             "topics": [
               "compilers",
               "quantum-algorithms",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:00:07.936Z",
+    "last_updated": "2026-10-11T08:11:58.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 curated list of open source photonics projects",
@@ -3982,7 +3982,7 @@
       "open_issues": 9,
       "owner": "joamatab",
       "repo": "awesome_photonics",
-      "stars": 637,
+      "stars": 638,
       "topics": [
         "awesome",
         "awesome-list",
